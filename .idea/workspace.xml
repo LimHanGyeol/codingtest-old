@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01a00d0f-1287-438a-9013-801a3e7f1702" name="Default Changelist" comment="" />
+    <list default="true" id="01a00d0f-1287-438a-9013-801a3e7f1702" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/FirstGradeStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/HateSameNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/StringSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstGradeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/FirstGradeStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HateSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StringSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/StringSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProgrammersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -19,10 +31,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstGradeStudent.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/GymClothes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-171">
-              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="57">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,35 +43,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/HateSameNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="158">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/CorrectBracket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StringSort.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="4" />
-              <folding>
-                <element signature="e#265#266#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="1102">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
+            <state relative-caret-position="-94">
               <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
             </state>
           </provider>
@@ -79,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-85">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="551">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,6 +106,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -110,6 +121,11 @@
         <option value="$PROJECT_DIR$/src/main/java/HateSameNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Programmers/StringSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Programmers/GymClothes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Programmers/CorrectBracket.java" />
       </list>
     </option>
   </component>
@@ -123,8 +139,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -154,6 +170,14 @@
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -162,6 +186,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgrammersTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -180,9 +212,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580748130849" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580810129319" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -209,31 +242,43 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProgrammersTest">
-    <configuration name="CalculatorTest.plus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
-      <option name="METHOD_NAME" value="plus" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ProgrammersTest.getCorrectBracket">
     <configuration name="ProgrammersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest" />
+      <option name="PACKAGE_NAME" value="ProgrammersTest" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.ProgrammersTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgrammersTest.getFirstGradeStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProgrammersTest.getCorrectBracket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest" />
-      <option name="METHOD_NAME" value="getFirstGradeStudent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammersTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgrammersTest" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.ProgrammersTest" />
+      <option name="METHOD_NAME" value="getCorrectBracket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgrammersTest.getGymClothes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammersTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgrammersTest" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.ProgrammersTest" />
+      <option name="METHOD_NAME" value="getGymClothes" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -241,8 +286,8 @@
     </configuration>
     <configuration name="ProgrammersTest.getHateSameNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest" />
+      <option name="PACKAGE_NAME" value="ProgrammersTest" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.ProgrammersTest" />
       <option name="METHOD_NAME" value="getHateSameNumber" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -251,8 +296,8 @@
     </configuration>
     <configuration name="ProgrammersTest.getStringSortResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest" />
+      <option name="PACKAGE_NAME" value="ProgrammersTest" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.ProgrammersTest" />
       <option name="METHOD_NAME" value="getStringSortResult" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -261,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProgrammersTest.getCorrectBracket" />
+        <item itemvalue="JUnit.ProgrammersTest.getGymClothes" />
+        <item itemvalue="JUnit.ProgrammersTest.getStringSortResult" />
         <item itemvalue="JUnit.ProgrammersTest" />
         <item itemvalue="JUnit.ProgrammersTest.getHateSameNumber" />
-        <item itemvalue="JUnit.ProgrammersTest.getStringSortResult" />
-        <item itemvalue="JUnit.ProgrammersTest.getFirstGradeStudent" />
-        <item itemvalue="JUnit.CalculatorTest.plus" />
       </list>
     </recent_temporary>
   </component>
@@ -281,48 +326,49 @@
       <updated>1580473598421</updated>
       <workItem from="1580473601211" duration="3275000" />
       <workItem from="1580648686857" duration="5842000" />
+      <workItem from="1580798680675" duration="9659000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProgrammersTest_getHateSameNumber - 2020.02.03 at 21h 33m 06s.xml">
-      <configuration name="ProgrammersTest.getHateSameNumber" configurationId="JUnit" />
+    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 16m 08s.xml">
+      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest - 2020.02.03 at 21h 35m 03s.xml">
-      <configuration name="ProgrammersTest" configurationId="JUnit" />
+    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 16m 33s.xml">
+      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest - 2020.02.03 at 21h 35m 52s.xml">
-      <configuration name="ProgrammersTest" configurationId="JUnit" />
+    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 16m 45s.xml">
+      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest_getHateSameNumber - 2020.02.03 at 21h 36m 30s.xml">
-      <configuration name="ProgrammersTest.getHateSameNumber" configurationId="JUnit" />
+    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 18m 53s.xml">
+      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest_getHateSameNumber - 2020.02.03 at 21h 40m 38s.xml">
-      <configuration name="ProgrammersTest.getHateSameNumber" configurationId="JUnit" />
+    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 19m 49s.xml">
+      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest_getStringSortResult - 2020.02.03 at 21h 40m 44s.xml">
-      <configuration name="ProgrammersTest.getStringSortResult" configurationId="JUnit" />
+    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 20m 57s.xml">
+      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest_getHateSameNumber - 2020.02.03 at 21h 43m 52s.xml">
-      <configuration name="ProgrammersTest.getHateSameNumber" configurationId="JUnit" />
+    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 21m 59s.xml">
+      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest - 2020.02.03 at 21h 44m 01s.xml">
-      <configuration name="ProgrammersTest" configurationId="JUnit" />
+    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 23m 18s.xml">
+      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest - 2020.02.03 at 21h 44m 34s.xml">
-      <configuration name="ProgrammersTest" configurationId="JUnit" />
+    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 23m 32s.xml">
+      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest - 2020.02.03 at 21h 44m 42s.xml">
-      <configuration name="ProgrammersTest" configurationId="JUnit" />
+    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 43m 31s.xml">
+      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9117000" />
+    <option name="totallyTimeSpent" value="18776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21636616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38002774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -331,8 +377,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45702004" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.56446993" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45624104" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.56384504" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -395,28 +441,48 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/HateSameNumber.java</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <line>18</line>
           <properties />
-          <option name="timeStamp" value="10" />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/HateSameNumber.java</url>
-          <line>10</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <line>21</line>
           <properties />
-          <option name="timeStamp" value="11" />
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/HateSameNumber.java</url>
-          <line>11</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <line>22</line>
           <properties />
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/HateSameNumber.java</url>
-          <line>12</line>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <line>23</line>
           <properties />
-          <option name="timeStamp" value="13" />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <line>20</line>
+          <properties method="compare">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -426,9 +492,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -450,60 +513,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/FirstGradeStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        <state relative-caret-position="551">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstGradeStudent.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        <state relative-caret-position="-94">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/GymClothes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HateSameNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="158">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/CorrectBracket.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="215">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StringSort.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+        <state relative-caret-position="1102">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,9 +1,8 @@
-import org.junit.Before;
+package ProgrammersTest;
+
+import Programmers.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.junit.matchers.JUnitMatchers;
-
-import java.util.stream.IntStream;
 
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.CoreMatchers.is;
@@ -15,12 +14,16 @@ public class ProgrammersTest {
     private FirstGradeStudent firstGradeStudent;
     private HateSameNumber hateSameNumber;
     private StringSort stringSort;
+    private GymClothes gymClothes;
+    private CorrectBracket correctBracket;
 
     @BeforeEach
     void setUp() {
         firstGradeStudent = new FirstGradeStudent();
         hateSameNumber = new HateSameNumber();
         stringSort = new StringSort();
+        gymClothes = new GymClothes();
+        correctBracket = new CorrectBracket();
     }
 
     @Test
@@ -37,8 +40,22 @@ public class ProgrammersTest {
 
     @Test
     public void getStringSortResult() {
-        assertThat(stringSort.getStringSortResult(new String[]{"sun", "bed", "car"}, 1), is(new String[]{"car", "bed", "sun"}));
-        ;
+        assertThat(stringSort.getStringSortResult(new String[]{"sun", "bed", "car"}, 1), is(new String[]{"car", "bed", "sun"}));;
+        assertThat(stringSort.getStringSortResult(new String[]{"abce", "abcd", "cdx"}, 1), is(new String[]{"abcd", "abce", "cdx"}));;
     }
 
+    @Test
+    public void getGymClothes() {
+        assertThat(gymClothes.getGymClothes(5, new int[]{2, 4}, new int[]{1, 3, 5}), is(5));
+//        assertThat(gymClothes.getGymClothes(5, new int[]{2, 4}, new int[]{3}), is(4));
+//        assertThat(gymClothes.getGymClothes(3, new int[]{3}, new int[]{1}), is(2));
+    }
+
+    @Test
+    public void getCorrectBracket() {
+        assertThat(correctBracket.getCorrectBracket("()()"), is(true));
+        assertThat(correctBracket.getCorrectBracket("(())()"), is(true));
+        assertThat(correctBracket.getCorrectBracket(")()("), is(false));
+        assertThat(correctBracket.getCorrectBracket("(()("), is(false));
+    }
 }
