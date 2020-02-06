@@ -2,17 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01a00d0f-1287-438a-9013-801a3e7f1702" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FirstGradeStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/HateSameNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/StringSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FirstGradeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/FirstGradeStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HateSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/StringSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/StringSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ProgrammersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/CorrectBracket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/FirstGradeStudent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/GymClothes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/HateSameNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/StringSort$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/StringSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/ProgrammersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/CorrectBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level2/CorrectBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/FirstGradeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level1/FirstGradeStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/GymClothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level1/GymClothes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level1/HateSameNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/StringSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProgrammersTest/Level1Test/ProgrammersTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -31,10 +34,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/GymClothes.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/FirstGradeStudent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="114">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -43,10 +46,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/GymClothes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            <state relative-caret-position="109">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,19 +58,69 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/CorrectBracket.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            <state relative-caret-position="117">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/HateSameNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level2/CorrectBracket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/Level1Test/ProgrammersTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="59" column="71" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/Level2Test/Level2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1102">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="196">
+              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level2/MaxAndMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,9 +176,11 @@
         <option value="$PROJECT_DIR$/src/main/java/StringSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Programmers/StringSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/Programmers/GymClothes.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/Programmers/CorrectBracket.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Programmers/Level2/MaxAndMin.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest/Level2Test/Level2Test.java" />
       </list>
     </option>
   </component>
@@ -178,6 +233,15 @@
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="Level2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -197,6 +261,15 @@
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgrammersTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Level1Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -212,7 +285,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580810129319" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580970146802" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -242,63 +315,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProgrammersTest.getCorrectBracket">
-    <configuration name="ProgrammersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Level2Test.getMaxAndMin">
+    <configuration name="Level1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="ProgrammersTest" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.ProgrammersTest" />
+      <option name="PACKAGE_NAME" value="ProgrammersTest.Level1Test" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.Level1Test.Level1Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgrammersTest.getCorrectBracket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Level1Test.getCorrectBracket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammersTest.*" />
+          <option name="PATTERN" value="ProgrammersTest.Level1Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ProgrammersTest" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.ProgrammersTest" />
+      <option name="PACKAGE_NAME" value="ProgrammersTest.Level1Test" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.Level1Test.Level1Test" />
       <option name="METHOD_NAME" value="getCorrectBracket" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgrammersTest.getGymClothes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Level1Test.getGymClothes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammersTest.*" />
+          <option name="PATTERN" value="ProgrammersTest.Level1Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ProgrammersTest" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.ProgrammersTest" />
+      <option name="PACKAGE_NAME" value="ProgrammersTest.Level1Test" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.Level1Test.Level1Test" />
       <option name="METHOD_NAME" value="getGymClothes" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgrammersTest.getHateSameNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Level1Test.getStringSortResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="ProgrammersTest" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.ProgrammersTest" />
-      <option name="METHOD_NAME" value="getHateSameNumber" />
+      <option name="PACKAGE_NAME" value="ProgrammersTest.Level1Test" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.Level1Test.Level1Test" />
+      <option name="METHOD_NAME" value="getStringSortResult" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgrammersTest.getStringSortResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Level2Test.getMaxAndMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="ProgrammersTest" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.ProgrammersTest" />
-      <option name="METHOD_NAME" value="getStringSortResult" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammersTest.Level2Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgrammersTest.Level2Test" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.Level2Test.Level2Test" />
+      <option name="METHOD_NAME" value="getMaxAndMin" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -306,11 +385,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ProgrammersTest.getCorrectBracket" />
-        <item itemvalue="JUnit.ProgrammersTest.getGymClothes" />
-        <item itemvalue="JUnit.ProgrammersTest.getStringSortResult" />
-        <item itemvalue="JUnit.ProgrammersTest" />
-        <item itemvalue="JUnit.ProgrammersTest.getHateSameNumber" />
+        <item itemvalue="JUnit.Level2Test.getMaxAndMin" />
+        <item itemvalue="JUnit.Level1Test.getCorrectBracket" />
+        <item itemvalue="JUnit.Level1Test.getGymClothes" />
+        <item itemvalue="JUnit.Level1Test.getStringSortResult" />
+        <item itemvalue="JUnit.Level1Test" />
       </list>
     </recent_temporary>
   </component>
@@ -326,29 +405,11 @@
       <updated>1580473598421</updated>
       <workItem from="1580473601211" duration="3275000" />
       <workItem from="1580648686857" duration="5842000" />
-      <workItem from="1580798680675" duration="9659000" />
+      <workItem from="1580798680675" duration="13297000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 16m 08s.xml">
-      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 16m 33s.xml">
-      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 16m 45s.xml">
-      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 18m 53s.xml">
-      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 19m 49s.xml">
-      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 20m 57s.xml">
-      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 21m 59s.xml">
       <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
@@ -361,9 +422,27 @@
     <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 43m 31s.xml">
       <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 27m 18s.xml">
+      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 27m 36s.xml">
+      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 33m 07s.xml">
+      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 33m 28s.xml">
+      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 33m 44s.xml">
+      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 56m 40s.xml">
+      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18776000" />
+    <option name="totallyTimeSpent" value="22414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
@@ -441,43 +520,43 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
           <line>20</line>
           <properties method="compare">
             <option name="EMULATED" value="true" />
@@ -520,26 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/FirstGradeStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/StringSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
@@ -557,39 +616,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/GymClothes.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/FirstGradeStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/GymClothes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="109">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/CorrectBracket.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/HateSameNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="109">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="117">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level2/CorrectBracket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/Level1Test/ProgrammersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="59" column="71" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level2/MaxAndMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/Level2Test/Level2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
           </folding>
         </state>
       </provider>

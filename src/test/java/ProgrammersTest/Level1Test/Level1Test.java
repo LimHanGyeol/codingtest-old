@@ -1,6 +1,10 @@
-package ProgrammersTest;
+package ProgrammersTest.Level1Test;
 
-import Programmers.*;
+import Programmers.Level1.FirstGradeStudent;
+import Programmers.Level1.GymClothes;
+import Programmers.Level1.HateSameNumber;
+import Programmers.Level1.StringSort;
+import Programmers.Level2.CorrectBracket;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -9,7 +13,7 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
-public class ProgrammersTest {
+public class Level1Test {
 
     private FirstGradeStudent firstGradeStudent;
     private HateSameNumber hateSameNumber;
