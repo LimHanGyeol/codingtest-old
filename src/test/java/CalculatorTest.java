@@ -12,7 +12,7 @@ import static org.hamcrest.CoreMatchers.is;
 // => plus(1, 2) => 3
 // minus(x, y)
 // multiply(x, y)
-// divide(x, y)
+// Divide(x, y)
 // lhs, rhs
 // lhs operator rhs
 // lhs = rhs
