@@ -1,5 +1,6 @@
 package BaekJoonTest.arrayTest;
 
+import BaekJoon.array.AboveAverage;
 import BaekJoon.array.Average;
 import BaekJoon.array.Divide;
 import BaekJoon.array.OxQuiz;
@@ -16,12 +17,14 @@ public class ArrayTest {
     private Divide divide;
     private Average average;
     private OxQuiz oxQuiz;
+    private AboveAverage aboveAverage;
 
     @BeforeEach
     void setUp() {
         divide = new Divide();
         average = new Average();
         oxQuiz = new OxQuiz();
+        aboveAverage = new AboveAverage();
     }
 
     @Test
@@ -48,5 +51,21 @@ public class ArrayTest {
         assertThat(oxQuiz.getOxQuiz(5
                 , new String[]{"OOXXOXXOOO", "OOXXOOXXOO", "OXOXOXOXOXOXOX", "OOOOOOOOOO", "OOOOXOOOOXOOOOX"})
                 , is(new int[]{10, 9, 7, 55, 30}));
+    }
+
+    @Test void getAboveAverage() {
+        assertNotNull(aboveAverage.getAboveMember(5, new String[]{}));
+        assertNotNull(aboveAverage.getGradeSum(5, new String[]{}));
+        assertThat(aboveAverage.getAbobeAverage(5,
+                new String[]{"5 50 50 70 80 100"
+                        , "7 100 95 90 80 70 60 50"
+                        , "3 70 90 80"
+                        , "3 70 90 81"
+                        , "9 100 99 98 97 96 95 94 93 91"}),
+                is(new String[]{"40.000%"
+                        , "57.143%"
+                , "33.333%"
+                , "66.667%"
+                , "55.556%"}));
     }
 }
