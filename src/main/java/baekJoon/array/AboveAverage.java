@@ -1,6 +1,5 @@
-package BaekJoon.array;
+package baekJoon.array;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class AboveAverage {
@@ -51,12 +50,13 @@ public class AboveAverage {
     }
 
     public String[] getAbobeAverage(int n, String[] array) {
-        int studentMembers = 0, gradeSum = 0, average = 0, aboveMember = 0;
+        int studentMembers = 0, average = 0;
         double percentage = 0, resultValue = 0;
-        String doubleToString;
         String[] answer = new String[n];
 
         for (int i = 0; i < array.length; i++) {
+            int gradeSum = 0;
+            int aboveMember = 0;
             String[] memberAndGrade = array[i].split(" ");
             studentMembers = Integer.parseInt(memberAndGrade[0]);
             gradeSum = getGradeSum(gradeSum, memberAndGrade);
@@ -68,10 +68,8 @@ public class AboveAverage {
             percentage = (double) 100 / studentMembers;
             resultValue = percentage * aboveMember;
 
-            doubleToString = String.format("%.3f", resultValue) + "%";
+            String doubleToString = String.format("%.3f", resultValue) + "%";
             answer[i] = doubleToString;
-            gradeSum = 0;
-            aboveMember = 0;
         }
         return answer;
     }
@@ -92,4 +90,5 @@ public class AboveAverage {
         }
         return aboveMember;
     }
+
 }

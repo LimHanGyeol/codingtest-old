@@ -1,9 +1,9 @@
-package BaekJoonTest.arrayTest;
+package baekJoonTest.arrayTest;
 
-import BaekJoon.array.AboveAverage;
-import BaekJoon.array.Average;
-import BaekJoon.array.Divide;
-import BaekJoon.array.OxQuiz;
+import baekJoon.array.AboveAverage;
+import baekJoon.array.Average;
+import baekJoon.array.Divide;
+import baekJoon.array.OxQuiz;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -53,7 +53,8 @@ public class ArrayTest {
                 , is(new int[]{10, 9, 7, 55, 30}));
     }
 
-    @Test void getAboveAverage() {
+    @Test
+    void getAboveAverage() {
         assertNotNull(aboveAverage.getAboveMember(5, new String[]{}));
         assertNotNull(aboveAverage.getGradeSum(5, new String[]{}));
         assertThat(aboveAverage.getAbobeAverage(5,
@@ -64,8 +65,10 @@ public class ArrayTest {
                         , "9 100 99 98 97 96 95 94 93 91"}),
                 is(new String[]{"40.000%"
                         , "57.143%"
-                , "33.333%"
-                , "66.667%"
-                , "55.556%"}));
+                        , "33.333%"
+                        , "66.667%"
+                        , "55.556%"}));
     }
+
+
 }

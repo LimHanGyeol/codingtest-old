@@ -1,6 +1,4 @@
-package BaekJoon.array;
-
-import java.util.Scanner;
+package baekJoon.array;
 
 /**
  * 2020. 02. 08.

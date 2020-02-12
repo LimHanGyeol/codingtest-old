@@ -1,7 +1,6 @@
-package BaekJoon.array;
+package baekJoon.array;
 
 import java.util.HashSet;
-import java.util.Scanner;
 import java.util.Set;
 
 /**
