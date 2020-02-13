@@ -69,6 +69,4 @@ public class ArrayTest {
                         , "66.667%"
                         , "55.556%"}));
     }
-
-
 }

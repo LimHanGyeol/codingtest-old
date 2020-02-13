@@ -31,4 +31,5 @@ public class FormulaTest {
         assertThat(sumFormula.sumFormulaRec(100), is(5050));
         assertThat(sumFormula.sumFormulaRec(99), is(4950));
     }
+
 }

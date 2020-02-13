@@ -23,4 +23,20 @@ public class SumFormula {
             return sumFormulaRec(n - 1) + n;
         }
     }
+
+    public static int getPrint(int num, int n) {
+        int inIt = n;
+        if (n > num) {
+            System.out.print(num);
+            num += 1;
+            return getPrint(num,n - 1);
+        }
+        if (inIt == num) {
+            System.out.print(num);
+            System.out.println();
+            num = 1;
+            return getPrint(num, inIt - 1);
+        }
+        return 0;
+    }
 }

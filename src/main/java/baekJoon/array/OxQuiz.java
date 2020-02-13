@@ -40,7 +40,6 @@ public class OxQuiz {
         int grade = 0;
         int resultValue = 0;
 
-
         for (int i = 0; i < array.length; i++) {
             String[] quiz = array[i].split("");
             for (int j = 0; j < quiz.length; j++) {
@@ -57,5 +56,4 @@ public class OxQuiz {
         }
         return answer;
     }
-
 }
