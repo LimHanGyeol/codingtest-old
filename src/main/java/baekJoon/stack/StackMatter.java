@@ -5,7 +5,7 @@ import java.util.Stack;
 
 /**
  * 2020. 02. 14.
- * 문제 : 10828qjs Stack
+ * 문제 : 10828번 Stack
  * 명령어로 작동하는 스택 프로그램 작성.
  */
 public class StackMatter {
