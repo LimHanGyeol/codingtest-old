@@ -7,10 +7,10 @@ public class Question {
 
     public static void main(String[] args) {
         getPrint(1, 5, 5);
-        //getString("limhangyeol");
+        //new Question().getString("limhangyeol");
     }
 
-    public static Character getString(String str) {
+    public Character getString(String str) {
         char[] charArray = str.toCharArray();
         Map<String, Integer> map = new HashMap<>();
         char chrar;
