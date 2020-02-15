@@ -1,4 +1,4 @@
-package formulaTest;
+package formulatest;
 
 import formula.SumFormula;
 import org.junit.jupiter.api.BeforeEach;

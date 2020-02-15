@@ -1,4 +1,4 @@
-package baekJoonTest.arrayTest;
+package baekJoontest.arraytest;
 
 import baekJoon.array.AboveAverage;
 import baekJoon.array.Average;

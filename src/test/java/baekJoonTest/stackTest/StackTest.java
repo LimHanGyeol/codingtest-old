@@ -1,4 +1,4 @@
-package baekJoonTest.stackTest;
+package baekJoontest.stacktest;
 
 import baekJoon.stack.BalancedWorld;
 import baekJoon.stack.ValidPs;

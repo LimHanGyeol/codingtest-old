@@ -15,7 +15,7 @@ public class ValidPs {
         int n = scanner.nextInt();
         scanner.nextLine();
 
-        String[] testArray = new String[50];
+        String[] testArray = new String[n];
         Stack<String> stack = new Stack<>();
         int resultValue;
         int checkNum = 0;

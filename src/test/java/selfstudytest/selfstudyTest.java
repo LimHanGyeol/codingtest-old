@@ -1,7 +1,8 @@
-package selfstudy;
+package selfstudytest;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import selfstudy.Question;
 
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
