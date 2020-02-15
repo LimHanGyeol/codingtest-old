@@ -3,19 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="01a00d0f-1287-438a-9013-801a3e7f1702" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/CorrectBracket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/FirstGradeStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/GymClothes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/HateSameNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/StringSort$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/StringSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/ProgrammersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/CorrectBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level2/CorrectBracket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/FirstGradeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level1/FirstGradeStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/GymClothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level1/GymClothes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level1/HateSameNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Programmers/StringSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProgrammersTest/Level1Test/ProgrammersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/BaekJoon/stack/Zero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/BaekJoon/stack/Zero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/FirstGradeStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/FirstGradeStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/GymClothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/GymClothes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/HateSameNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/HateSameNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level2/CorrectBracket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level2/CorrectBracket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level2/MaxAndMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level2/MaxAndMin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level1Test/ProgrammersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level2Test/Level2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level2Test/Level2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baekJoon/stack/Zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekJoon/stack/Zero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level1/FirstGradeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level1/FirstGradeStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level1/GymClothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level1/GymClothes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level1/HateSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level1/HateSameNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level2/CorrectBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level2/CorrectBracket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level2/MaxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level2/MaxAndMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/baekJoonTest/stackTest/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/baekJoonTest/stackTest/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programmersTest/Level1Test/Level1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programmersTest/Level1Test/Level1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/programmersTest/Level2Test/Level2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programmersTest/Level2Test/Level2Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -34,10 +41,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/FirstGradeStudent.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack/StackMatter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="133">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,10 +53,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/GymClothes.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack/ValidPs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="590">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -58,43 +65,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/array/Average.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/HateSameNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/baekJoonTest/arrayTest/ArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level2/CorrectBracket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/Level1Test/ProgrammersTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="59" column="71" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="71" />
+            <state relative-caret-position="628">
+              <caret line="67" column="30" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,47 +86,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/Level2Test/Level2Test.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/baekJoonTest/stackTest/StackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+            <state relative-caret-position="362">
+              <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level2/MaxAndMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-94">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,7 +130,34 @@
         <option value="$PROJECT_DIR$/src/main/java/Programmers/CorrectBracket.java" />
         <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Programmers/Level2/MaxAndMin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Programmers/Level2/Tower.java" />
         <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest/Level2Test/Level2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Programmers/Level2/Lcm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/Dividede.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/divide.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BaekJoonTest/arrayTest/DivideTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/Divide.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/Average.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/OxQuiz.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/AboveAverage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BaekJoonTest/arrayTest/ArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/formulaTest/SumFormula.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/array/AboveAverage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/array/OxQuiz.java" />
+        <option value="$PROJECT_DIR$/src/test/java/baekJoonTest/arrayTest/ArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/formulaTest/FormulaTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selfstudy/Question.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selfstudy/selfstudyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/formula/SumFormula.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/stack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/stack/StackMatter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/stack/Zero.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/stack/ValidPS.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/stack/ValidPs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/baekJoonTest/stackTest/StackTest.java" />
       </list>
     </option>
   </component>
@@ -194,8 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -227,7 +202,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="baekJoon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -235,8 +210,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="Level2" type="462c0819:PsiDirectoryNode" />
+              <item name="baekJoon" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="baekJoon" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -257,7 +241,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ProgrammersTest" type="462c0819:PsiDirectoryNode" />
+              <item name="baekJoonTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -265,8 +249,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ProgrammersTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Level1Test" type="462c0819:PsiDirectoryNode" />
+              <item name="baekJoonTest" type="462c0819:PsiDirectoryNode" />
+              <item name="arrayTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="formulaTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -276,6 +268,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,10 +279,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580970146802" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581751743211" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../testeeeee" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -315,69 +309,75 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Level2Test.getMaxAndMin">
-    <configuration name="Level1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ValidPs">
+    <configuration name="ValidPs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekJoon.stack.ValidPs" />
+      <module name="com.tommy.tdd-sample.tdd-sample.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekJoon.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekJoon.stack.Zero" />
+      <module name="com.tommy.tdd-sample.tdd-sample.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekJoon.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest.getDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="ProgrammersTest.Level1Test" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.Level1Test.Level1Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekJoonTest.arrayTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="baekJoonTest.arrayTest" />
+      <option name="MAIN_CLASS_NAME" value="baekJoonTest.arrayTest.ArrayTest" />
+      <option name="METHOD_NAME" value="getDivide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekJoonTest.stackTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="baekJoonTest.stackTest" />
+      <option name="MAIN_CLASS_NAME" value="baekJoonTest.stackTest.StackTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Level1Test.getCorrectBracket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StackTest.getValidParenthesisString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgrammersTest.Level1Test.*" />
+          <option name="PATTERN" value="baekJoonTest.stackTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ProgrammersTest.Level1Test" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.Level1Test.Level1Test" />
-      <option name="METHOD_NAME" value="getCorrectBracket" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Level1Test.getGymClothes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProgrammersTest.Level1Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ProgrammersTest.Level1Test" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.Level1Test.Level1Test" />
-      <option name="METHOD_NAME" value="getGymClothes" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Level1Test.getStringSortResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="ProgrammersTest.Level1Test" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.Level1Test.Level1Test" />
-      <option name="METHOD_NAME" value="getStringSortResult" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Level2Test.getMaxAndMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProgrammersTest.Level2Test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ProgrammersTest.Level2Test" />
-      <option name="MAIN_CLASS_NAME" value="ProgrammersTest.Level2Test.Level2Test" />
-      <option name="METHOD_NAME" value="getMaxAndMin" />
+      <option name="PACKAGE_NAME" value="baekJoonTest.stackTest" />
+      <option name="MAIN_CLASS_NAME" value="baekJoonTest.stackTest.StackTest" />
+      <option name="METHOD_NAME" value="getValidParenthesisString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -385,11 +385,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Level2Test.getMaxAndMin" />
-        <item itemvalue="JUnit.Level1Test.getCorrectBracket" />
-        <item itemvalue="JUnit.Level1Test.getGymClothes" />
-        <item itemvalue="JUnit.Level1Test.getStringSortResult" />
-        <item itemvalue="JUnit.Level1Test" />
+        <item itemvalue="Application.ValidPs" />
+        <item itemvalue="JUnit.ArrayTest.getDivide" />
+        <item itemvalue="JUnit.StackTest.getValidParenthesisString" />
+        <item itemvalue="JUnit.StackTest" />
+        <item itemvalue="Application.Zero" />
       </list>
     </recent_temporary>
   </component>
@@ -405,101 +405,73 @@
       <updated>1580473598421</updated>
       <workItem from="1580473601211" duration="3275000" />
       <workItem from="1580648686857" duration="5842000" />
-      <workItem from="1580798680675" duration="13297000" />
+      <workItem from="1580798680675" duration="41862000" />
+      <workItem from="1581498622745" duration="2920000" />
+      <workItem from="1581578727208" duration="1198000" />
+      <workItem from="1581581289033" duration="5010000" />
+      <workItem from="1581666783862" duration="10668000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 21m 59s.xml">
-      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
+    <history-entry file="StackTest_getValidParenthesisString - 2020.02.14 at 18h 35m 49s.xml">
+      <configuration name="StackTest.getValidParenthesisString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 23m 18s.xml">
-      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
+    <history-entry file="StackTest_getValidParenthesisString - 2020.02.14 at 18h 37m 52s.xml">
+      <configuration name="StackTest.getValidParenthesisString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 23m 32s.xml">
-      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
+    <history-entry file="StackTest_getValidParenthesisString - 2020.02.14 at 18h 39m 01s.xml">
+      <configuration name="StackTest.getValidParenthesisString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ProgrammersTest_getCorrectBracket - 2020.02.04 at 18h 43m 31s.xml">
-      <configuration name="ProgrammersTest.getCorrectBracket" configurationId="JUnit" />
+    <history-entry file="StackTest - 2020.02.14 at 18h 41m 00s.xml">
+      <configuration name="StackTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 27m 18s.xml">
-      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    <history-entry file="StackTest_getValidParenthesisString - 2020.02.14 at 18h 41m 04s.xml">
+      <configuration name="StackTest.getValidParenthesisString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 27m 36s.xml">
-      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    <history-entry file="StackTest_getValidParenthesisString - 2020.02.14 at 18h 41m 45s.xml">
+      <configuration name="StackTest.getValidParenthesisString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 33m 07s.xml">
-      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    <history-entry file="StackTest_getValidParenthesisString - 2020.02.14 at 18h 42m 43s.xml">
+      <configuration name="StackTest.getValidParenthesisString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 33m 28s.xml">
-      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    <history-entry file="StackTest_getValidParenthesisString - 2020.02.14 at 18h 45m 41s.xml">
+      <configuration name="StackTest.getValidParenthesisString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 33m 44s.xml">
-      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    <history-entry file="ArrayTest_getDivide - 2020.02.14 at 21h 03m 35s.xml">
+      <configuration name="ArrayTest.getDivide" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Level2Test_getMaxAndMin - 2020.02.06 at 00h 56m 40s.xml">
-      <configuration name="Level2Test.getMaxAndMin" configurationId="JUnit" />
+    <history-entry file="ArrayTest_getDivide - 2020.02.14 at 21h 03m 49s.xml">
+      <configuration name="ArrayTest.getDivide" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22414000" />
+    <option name="totallyTimeSpent" value="70775000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="762" y="0" width="781" height="830" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38002774" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45624104" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.56384504" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.45702004" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.23937677" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24930748" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
-    <layout-to-restore>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.24965326" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.27045768" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.45702004" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32998565" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.23687944" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
-      <window_info anchor="bottom" id="Find" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.3295129" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32998565" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.40602583" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.43472022" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Maven" order="0" />
       <window_info anchor="right" id="Palette" order="1" />
@@ -509,8 +481,41 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24930748" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.40915394" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.45702004" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.23687944" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.32998565" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.40746054" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.43472022" />
+      <window_info anchor="bottom" id="TODO" order="13" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Gradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="9" weight="0.24930748" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,48 +525,134 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/array/OxQuiz.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/array/OxQuiz.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/array/OxQuiz.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/array/OxQuiz.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/array/OxQuiz.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/stack/Zero.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/stack/Zero.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/stack/Zero.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/stack/Zero.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/stack/Zero.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/stack/Zero.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/stack/ValidPs.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekJoon/stack/ValidPs.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
           <line>20</line>
           <properties method="compare">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/formulaTest/FormulaTest.java</url>
+          <line>28</line>
+          <properties class="formulaTest.FormulaTest" method="setSumFormulaRec">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -571,16 +662,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -616,7 +697,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/FirstGradeStudent.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level1/FirstGradeStudent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -626,17 +707,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/GymClothes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/HateSameNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level1/HateSameNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
@@ -646,7 +717,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level1/StringSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
@@ -656,14 +727,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level2/CorrectBracket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/Level1Test/ProgrammersTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programmersTest/Level1Test/Level1Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="59" column="71" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="71" />
@@ -673,24 +737,214 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Programmers/Level2/MaxAndMin.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level2/MaxAndMin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProgrammersTest/Level2Test/Level2Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level2/Tower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        <state relative-caret-position="288">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+          <folding>
+            <element signature="e#156#165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level1/GymClothes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level2/Lcm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/info.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/array/AboveAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="method#main#0;class#AboveAverage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/array/OxQuiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+          <folding>
+            <element signature="method#main#0;class#OxQuiz#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level2/CorrectBracket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programmersTest/Level2Test/Level2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selfstudy/selfstudyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/formula/SumFormula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/array/Divide.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/formulaTest/FormulaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack/Zero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack/StackMatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/array/Average.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack/ValidPs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/baekJoonTest/arrayTest/ArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="67" column="30" lean-forward="true" selection-start-line="67" selection-start-column="30" selection-end-line="67" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/baekJoonTest/stackTest/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -31,19 +31,19 @@ public class Zero {
         }
 
         System.out.println(answer);
+//        System.out.println(getZeroStack(testCase));
     }
 
-    public int getZeroStack(int[] testCase) {
+    public static int getZeroStack(int[] testCase) {
         int answer = 0;
         Stack<Integer> stack = new Stack<>();
 
-        for (int num : testCase) {
+        for (int num : testCase)
             num = (num == 0) ? stack.pop() : stack.push(num);
-        }
 
-        for (int num : stack) {
+        for (int num : stack)
             answer += num;
-        }
+
         return answer;
     }
 }
