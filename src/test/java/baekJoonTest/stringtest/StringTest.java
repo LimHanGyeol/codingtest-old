@@ -1,5 +1,6 @@
 package baekJoontest.stringtest;
 
+import baekJoon.string.GroupWordCheck;
 import baekJoon.string.RepeatString;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -11,10 +12,12 @@ import static org.junit.Assert.assertThat;
 public class StringTest {
 
     private RepeatString repeatString;
+    private GroupWordCheck groupWordCheck;
 
     @BeforeEach
     void setUp() {
         repeatString = new RepeatString();
+        groupWordCheck = new GroupWordCheck();
     }
 
     @Test
@@ -23,4 +26,12 @@ public class StringTest {
         assertThat(repeatString.getSumOfNumbers("5 /HTP"), is("/////HHHHHTTTTTPPPPP"));
         assertNotNull(repeatString);
     }
+
+    @Test
+    public void getGroupWordCheckTest() {
+        assertThat(groupWordCheck.getGroupWordCheck("happy"), is(true));
+        assertThat(groupWordCheck.getGroupWordCheck("new"), is(true));
+        assertThat(groupWordCheck.getGroupWordCheck("year"), is(true));
+    }
+
 }
