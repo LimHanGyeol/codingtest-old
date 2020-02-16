@@ -1,10 +1,7 @@
-package ProgrammersTest.Level2Test;
-import Programmers.Level1.FirstGradeStudent;
-import Programmers.Level1.GymClothes;
-import Programmers.Level1.HateSameNumber;
-import Programmers.Level1.StringSort;
-import Programmers.Level2.CorrectBracket;
-import Programmers.Level2.MaxAndMin;
+package programmerstest.level2test;
+import programmers.level2.Lcm;
+import programmers.level2.MaxAndMin;
+import programmers.level2.Tower;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -16,10 +13,15 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 public class Level2Test {
 
     private MaxAndMin maxAndMin;
+    private Tower tower;
+    private Lcm lcm;
+
 
     @BeforeEach
     void setUp() {
         maxAndMin = new MaxAndMin();
+        tower = new Tower();
+        lcm = new Lcm();
     }
 
     @Test
@@ -27,5 +29,15 @@ public class Level2Test {
         assertThat(maxAndMin.getMaxMin("1 2 3 4"), is("1 4"));
         assertThat(maxAndMin.getMaxMin("-1 -2 -3 -4"), is("-4 -1"));
         assertThat(maxAndMin.getMaxMin("-1 -1"), is("-1 -1"));
+    }
+
+    @Test
+    public void getTower() {
+        assertThat(tower.getTower(new int[]{6, 9, 5, 7, 4}), is(new int[] {0, 0, 2, 2, 4}));
+    }
+
+    @Test
+    public void getMultiLcm() {
+        assertThat(lcm.getMultiLcm(new int[] {2, 6, 8, 14}), is(168));
     }
 }

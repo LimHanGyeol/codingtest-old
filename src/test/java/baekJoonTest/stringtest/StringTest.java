@@ -2,6 +2,7 @@ package baekJoontest.stringtest;
 
 import baekJoon.string.GroupWordCheck;
 import baekJoon.string.RepeatString;
+import baekJoon.string.WordStudy;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -13,11 +14,13 @@ public class StringTest {
 
     private RepeatString repeatString;
     private GroupWordCheck groupWordCheck;
+    private WordStudy wordStudy;
 
     @BeforeEach
     void setUp() {
         repeatString = new RepeatString();
         groupWordCheck = new GroupWordCheck();
+        wordStudy = new WordStudy();
     }
 
     @Test
@@ -29,9 +32,17 @@ public class StringTest {
 
     @Test
     public void getGroupWordCheckTest() {
-        assertThat(groupWordCheck.getGroupWordCheck("happy"), is(true));
-        assertThat(groupWordCheck.getGroupWordCheck("new"), is(true));
-        assertThat(groupWordCheck.getGroupWordCheck("year"), is(true));
+        assertThat(GroupWordCheck.getGroupWordCheck("aab"), is(true));
+        assertThat(GroupWordCheck.getGroupWordCheck("new"), is(true));
+        assertThat(GroupWordCheck.getGroupWordCheck("year"), is(true));
     }
 
+    @Test
+    public void getWordStudyTest() {
+        assertThat(WordStudy.getWordStudy("zZa"), is("Z"));
+        assertThat(WordStudy.getWordStudy("Mississipi"), is("?"));
+        assertThat(WordStudy.getWordStudy("z"), is("Z"));
+        assertThat(WordStudy.getWordStudy("baaa"), is("A"));
+        assertThat(WordStudy.getWordStudy("KangKilHawn"), is("?"));
+    }
 }

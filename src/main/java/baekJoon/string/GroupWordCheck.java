@@ -27,17 +27,16 @@ public class GroupWordCheck {
     }
 
     public static boolean getGroupWordCheck(String input) {
-        boolean[] alpabet = new boolean[26];
+        boolean[] alphabet = new boolean[26];
         int length = input.length();
 
-        int i;
-        for (i = 0; i < length; i++) {
+        for (int i = 0; i < length; i++) {
             char stringPlaceValue = input.charAt(i);
-            if (alpabet[stringPlaceValue-'a']) {
+            if (alphabet[stringPlaceValue-'a']) {
                 return false;
             } else {
                 if (i < length-1 && stringPlaceValue != input.charAt(i+1)) {
-                    alpabet[stringPlaceValue-'a'] = true;
+                    alphabet[stringPlaceValue-'a'] = true;
                 }
             }
         }

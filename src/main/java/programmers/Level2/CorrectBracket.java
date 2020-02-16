@@ -1,4 +1,4 @@
-package Programmers.Level2;
+package programmers.level2;
 
 /**
  * 2020. 02. 04.

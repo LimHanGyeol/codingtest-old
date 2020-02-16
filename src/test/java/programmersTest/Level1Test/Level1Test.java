@@ -1,10 +1,10 @@
-package ProgrammersTest.Level1Test;
+package programmerstest.level1test;
 
-import Programmers.Level1.FirstGradeStudent;
-import Programmers.Level1.GymClothes;
-import Programmers.Level1.HateSameNumber;
-import Programmers.Level1.StringSort;
-import Programmers.Level2.CorrectBracket;
+import programmers.level1.FirstGradeStudent;
+import programmers.level1.GymClothes;
+import programmers.level1.HateSameNumber;
+import programmers.level1.StringSort;
+import programmers.level2.CorrectBracket;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
