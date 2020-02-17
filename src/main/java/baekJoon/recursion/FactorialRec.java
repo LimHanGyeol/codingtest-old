@@ -16,8 +16,8 @@ public class FactorialRec {
     }
 
     public static int getFactorialRec(int n) {
-        if (n <= 1) {
-            return n;
+        if (n == 0) {
+            return 1;
         } else {
             return getFactorialRec(n-1) * n;
         }
