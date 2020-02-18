@@ -20,5 +20,6 @@ public class GreedyTest {
     public void getCoinTest() {
         assertThat(coin.getCoin(4200, new int[]{1, 5, 10, 50, 100, 500, 1000, 5000, 10000, 50000}), is(6));
         assertThat(coin.getCoin(4790, new int[]{1, 5, 10, 50, 100, 500, 1000, 5000, 10000, 50000}), is(12));
+        assertThat(coin.getCoin(5000, new int[]{1, 5, 10, 50, 100, 500, 1000, 5000, 10000, 50000}), is(1));
     }
 }

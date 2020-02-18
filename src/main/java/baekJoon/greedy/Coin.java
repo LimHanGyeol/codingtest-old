@@ -35,7 +35,7 @@ public class Coin {
 
         for (int i = coinArray.length - 1; i >= 0; i--) {
             if (price == 0) break;
-            if (price > coinArray[i]) {
+            if (price >= coinArray[i]) {
                 minValue += price / coinArray[i];
                 price = price % coinArray[i];
             }

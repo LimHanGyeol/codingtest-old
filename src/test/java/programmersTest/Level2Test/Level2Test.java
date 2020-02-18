@@ -1,4 +1,5 @@
 package programmerstest.level2test;
+import programmers.level2.Fibonacci;
 import programmers.level2.Lcm;
 import programmers.level2.MaxAndMin;
 import programmers.level2.Tower;
@@ -15,6 +16,7 @@ public class Level2Test {
     private MaxAndMin maxAndMin;
     private Tower tower;
     private Lcm lcm;
+    private Fibonacci fibonacci;
 
 
     @BeforeEach
@@ -22,6 +24,7 @@ public class Level2Test {
         maxAndMin = new MaxAndMin();
         tower = new Tower();
         lcm = new Lcm();
+        fibonacci = new Fibonacci();
     }
 
     @Test
@@ -40,4 +43,11 @@ public class Level2Test {
     public void getMultiLcm() {
         assertThat(lcm.getMultiLcm(new int[] {2, 6, 8, 14}), is(168));
     }
+
+    @Test
+    public void getFibonacciTest() {
+        assertThat(fibonacci.getFibonacci(5), is(5));
+        assertThat(fibonacci.getFibonacci(3), is(2));
+    }
+
 }
