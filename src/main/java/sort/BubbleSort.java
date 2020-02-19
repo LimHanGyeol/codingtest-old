@@ -1,5 +1,8 @@
 package sort;
 
+/**
+ * 버블 정렬
+ */
 public class BubbleSort {
     private static int[] input = {5, 6, 2, 8, 7, 23, 4, 1};
 
