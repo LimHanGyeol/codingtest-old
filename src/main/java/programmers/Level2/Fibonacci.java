@@ -20,6 +20,7 @@ public class Fibonacci {
             n1 = n2;
             n2 = sum;
         }
+        System.out.println(sum);
         return sum;
     }
 }
