@@ -1,7 +1,7 @@
 package sort;
 // 삽입 정렬
 public class InsertionSort {
-    
+
     public static int[] getInsertionSort(int[] input, int length) {
         int tmp;
         for (int i = 1; i < length; i++) {
