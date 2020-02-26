@@ -9,17 +9,9 @@
       <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level2/CorrectBracket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level2/CorrectBracket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level2/MaxAndMin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level2/MaxAndMin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level1Test/ProgrammersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level1Test/Level1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level1Test/Level1Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level2Test/Level2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level2Test/Level2Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekJoon/string/GroupWordCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekJoon/string/GroupWordCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level1/FirstGradeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level1/FirstGradeStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level1/GymClothes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level1/GymClothes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level1/HateSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level1/HateSameNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level2/CorrectBracket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level2/CorrectBracket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/programmers/Level2/MaxAndMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programmers/Level2/MaxAndMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programmersTest/Level1Test/Level1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programmersTest/Level1Test/Level1Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/programmersTest/Level2Test/Level2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programmersTest/Level2Test/Level2Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,40 +30,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/string/RepeatString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/string/GroupWordCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/string/WordStudy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/Tower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="294">
+              <caret line="22" column="99" selection-start-line="22" selection-start-column="99" selection-end-line="22" selection-end-column="99" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/baekJoontest/stringtest/StringTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+            <state relative-caret-position="256">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1375#1376#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -83,6 +58,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -93,22 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/App.java" />
-        <option value="$PROJECT_DIR$/src/test/java/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FirstGradeStudent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/HateSameNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StringSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Programmers/StringSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Programmers/GymClothes.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Programmers/HateSameNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Programmers/CorrectBracket.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest/ProgrammersTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Programmers/Level2/MaxAndMin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Programmers/Level2/Tower.java" />
         <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest/Level2Test/Level2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Programmers/Level2/Lcm.java" />
         <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/Dividede.java" />
@@ -119,8 +79,6 @@
         <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/OxQuiz.java" />
         <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/AboveAverage.java" />
         <option value="$PROJECT_DIR$/src/main/java/info.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sort/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/test/java/BaekJoonTest/arrayTest/ArrayTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/formulaTest/SumFormula.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekJoon/array/AboveAverage.java" />
@@ -141,15 +99,35 @@
         <option value="$PROJECT_DIR$/src/main/java/baekJoon/string/RepeatString.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekJoon/string/GroupWordCheck.java" />
         <option value="$PROJECT_DIR$/src/test/java/baekJoontest/stringtest/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/ㅣevel2/CorrectBracket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/level2/CorrectBracket.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekJoon/string/WordStudy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/recursion/FactorialRec.java" />
+        <option value="$PROJECT_DIR$/src/test/java/baekJoontest/recursiontest/RecursionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/recursion/FibonacciRec.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/queue/QueueMatter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/baekJoontest/greedytest/GreedyTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekJoon/greedy/Coin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/level2/Fibonacci.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/sorttest/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/jquery.countdown.min.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/asdf.html" />
+        <option value="$PROJECT_DIR$/src/main/java/selfstudy/Example.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/level2/Tower.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="978" />
-    <option name="height" value="1048" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -187,7 +165,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekJoon" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -195,8 +173,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekJoon" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="level1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="level2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -217,7 +204,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekJoontest" type="462c0819:PsiDirectoryNode" />
+              <item name="formulatest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -225,8 +212,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekJoontest" type="462c0819:PsiDirectoryNode" />
-              <item name="arraytest" type="462c0819:PsiDirectoryNode" />
+              <item name="programmerstest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programmerstest" type="462c0819:PsiDirectoryNode" />
+              <item name="level2test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selfstudytest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -236,18 +239,19 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581844542023" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582708584164" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../testeeeee" />
@@ -264,6 +268,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HANGYEOL\Desktop\tdd-sample\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -277,13 +284,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringTest.getWordStudyTest">
-    <configuration name="WordStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekJoon.string.WordStudy" />
+  <component name="RunManager" selected="JUnit.Level2Test.getTower">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.BubbleSort" />
       <module name="com.tommy.tdd-sample.tdd-sample.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekJoon.string.*" />
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,76 +298,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="FormulaTest.getSumFormula" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekJoontest.stringtest.*" />
+          <option name="PATTERN" value="formulatest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="baekJoontest.stringtest" />
-      <option name="MAIN_CLASS_NAME" value="baekJoontest.stringtest.StringTest" />
+      <option name="PACKAGE_NAME" value="formulatest" />
+      <option name="MAIN_CLASS_NAME" value="formulatest.FormulaTest" />
+      <option name="METHOD_NAME" value="getSumFormula" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Level2Test.getFibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmerstest.level2test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmerstest.level2test" />
+      <option name="MAIN_CLASS_NAME" value="programmerstest.level2test.Level2Test" />
+      <option name="METHOD_NAME" value="getFibonacciTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Level2Test.getTower" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmerstest.level2test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmerstest.level2test" />
+      <option name="MAIN_CLASS_NAME" value="programmerstest.level2test.Level2Test" />
+      <option name="METHOD_NAME" value="getTower" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selfstudyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selfstudytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selfstudytest" />
+      <option name="MAIN_CLASS_NAME" value="selfstudytest.selfstudyTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest.getGroupWordCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekJoontest.stringtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="baekJoontest.stringtest" />
-      <option name="MAIN_CLASS_NAME" value="baekJoontest.stringtest.StringTest" />
-      <option name="METHOD_NAME" value="getGroupWordCheckTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest.getSumOfNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekJoontest.stringtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="baekJoontest.stringtest" />
-      <option name="MAIN_CLASS_NAME" value="baekJoontest.stringtest.StringTest" />
-      <option name="METHOD_NAME" value="getSumOfNumbersTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringTest.getWordStudyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="baekJoontest.stringtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="baekJoontest.stringtest" />
-      <option name="MAIN_CLASS_NAME" value="baekJoontest.stringtest.StringTest" />
-      <option name="METHOD_NAME" value="getWordStudyTest" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StringTest.getWordStudyTest" />
-        <item itemvalue="Application.WordStudy" />
-        <item itemvalue="JUnit.StringTest" />
-        <item itemvalue="JUnit.StringTest.getSumOfNumbersTest" />
-        <item itemvalue="JUnit.StringTest.getGroupWordCheckTest" />
+        <item itemvalue="JUnit.Level2Test.getTower" />
+        <item itemvalue="JUnit.Level2Test.getFibonacciTest" />
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="JUnit.FormulaTest.getSumFormula" />
+        <item itemvalue="JUnit.selfstudyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -380,47 +387,48 @@
       <workItem from="1581498622745" duration="2920000" />
       <workItem from="1581578727208" duration="1198000" />
       <workItem from="1581581289033" duration="5010000" />
-      <workItem from="1581666783862" duration="26054000" />
+      <workItem from="1581666783862" duration="38037000" />
+      <workItem from="1582011306243" duration="35771000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StringTest_getWordStudyTest - 2020.02.16 at 17h 55m 40s.xml">
-      <configuration name="StringTest.getWordStudyTest" configurationId="JUnit" />
+    <history-entry file="Level2Test_getTower - 2020.02.26 at 17h 35m 10s.xml">
+      <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_getWordStudyTest - 2020.02.16 at 17h 55m 47s.xml">
-      <configuration name="StringTest.getWordStudyTest" configurationId="JUnit" />
+    <history-entry file="Level2Test_getTower - 2020.02.26 at 17h 35m 50s.xml">
+      <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_getWordStudyTest - 2020.02.16 at 17h 57m 44s.xml">
-      <configuration name="StringTest.getWordStudyTest" configurationId="JUnit" />
+    <history-entry file="Level2Test_getTower - 2020.02.26 at 17h 36m 13s.xml">
+      <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_getWordStudyTest - 2020.02.16 at 17h 57m 50s.xml">
-      <configuration name="StringTest.getWordStudyTest" configurationId="JUnit" />
+    <history-entry file="Level2Test_getTower - 2020.02.26 at 17h 56m 12s.xml">
+      <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_getWordStudyTest - 2020.02.16 at 17h 57m 59s.xml">
-      <configuration name="StringTest.getWordStudyTest" configurationId="JUnit" />
+    <history-entry file="Level2Test_getTower - 2020.02.26 at 17h 56m 15s.xml">
+      <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_getWordStudyTest - 2020.02.16 at 17h 58m 18s.xml">
-      <configuration name="StringTest.getWordStudyTest" configurationId="JUnit" />
+    <history-entry file="Level2Test_getTower - 2020.02.26 at 17h 57m 36s.xml">
+      <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_getWordStudyTest - 2020.02.16 at 17h 58m 32s.xml">
-      <configuration name="StringTest.getWordStudyTest" configurationId="JUnit" />
+    <history-entry file="Level2Test_getTower - 2020.02.26 at 18h 04m 19s.xml">
+      <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_getWordStudyTest - 2020.02.16 at 18h 02m 24s.xml">
-      <configuration name="StringTest.getWordStudyTest" configurationId="JUnit" />
+    <history-entry file="Level2Test_getTower - 2020.02.26 at 18h 05m 35s.xml">
+      <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_getWordStudyTest - 2020.02.16 at 18h 11m 04s.xml">
-      <configuration name="StringTest.getWordStudyTest" configurationId="JUnit" />
+    <history-entry file="Level2Test_getTower - 2020.02.26 at 18h 11m 25s.xml">
+      <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StringTest_getWordStudyTest - 2020.02.16 at 18h 11m 45s.xml">
-      <configuration name="StringTest.getWordStudyTest" configurationId="JUnit" />
+    <history-entry file="Level2Test_getTower - 2020.02.26 at 18h 12m 38s.xml">
+      <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86161000" />
+    <option name="totallyTimeSpent" value="133915000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="761" y="-7" width="782" height="838" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -428,8 +436,8 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.26869807" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.40499306" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.45702004" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32998565" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
@@ -441,8 +449,8 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32998565" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.38865247" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.43404254" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.29219857" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.38439715" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Maven" order="0" />
       <window_info anchor="right" id="Palette" order="1" />
@@ -461,21 +469,21 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.40915394" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.21946308" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.45702004" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32998565" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.23687944" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.23672883" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32998565" />
-      <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.40746054" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.43472022" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.29219857" />
+      <window_info active="true" anchor="bottom" id="Debug" order="12" visible="true" weight="0.38439715" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Maven" order="0" />
       <window_info anchor="right" id="Palette" order="1" />
@@ -496,37 +504,37 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level1/StringSort.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level1/StringSort.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level1/StringSort.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level1/StringSort.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level1/StringSort.java</url>
           <line>24</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level1/StringSort.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="20" />
@@ -597,8 +605,38 @@
           <properties />
           <option name="timeStamp" value="90" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/selfstudy/Question2.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/selfstudy/Question2.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/selfstudy/Question2.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/selfstudy/Question2.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/selfstudy/Question2.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level1/StringSort.java</url>
           <line>20</line>
           <properties method="compare">
             <option name="EMULATED" value="true" />
@@ -639,54 +677,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-94">
-          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level1/FirstGradeStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level1/HateSameNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level1/StringSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/Level1Test/Level1Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level1test/Level1Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="59" column="71" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="71" />
@@ -696,68 +687,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level2/MaxAndMin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level2/Tower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-          <folding>
-            <element signature="e#156#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level1/GymClothes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level2/Lcm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/info.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/sort/SelectionSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/array/AboveAverage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-200">
@@ -778,71 +708,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/Level2/CorrectBracket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/Level2Test/Level2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/formula/SumFormula.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/array/Divide.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/formulatest/FormulaTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-170">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -859,30 +729,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack/StackMatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/array/Average.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack/BalancedWorld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -918,10 +768,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/string/WordStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/string/GroupWordCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="42" column="12" lean-forward="true" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        <state relative-caret-position="798">
+          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/baekJoontest/stringtest/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -932,20 +799,306 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/baekJoontest/stringtest/StringTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/recursion/FactorialRec.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+        <state relative-caret-position="228">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/queue/QueueMatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="43" column="70" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/string/WordStudy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack/StackMatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack/BalancedWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="6" selection-start-line="6" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/baekJoontest/greedytest/GreedyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="22" column="104" selection-start-line="22" selection-start-column="104" selection-end-line="22" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/greedy/Coin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/recursion/FibonacciRec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="8" selection-start-column="3" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/baekJoontest/recursiontest/RecursionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/Lcm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/CorrectBracket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/MaxAndMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/sorttest/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jquery.countdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="239" column="17" selection-end-line="245" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jquery.countdown.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="123" column="42" lean-forward="true" selection-end-line="126" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/asdf.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-317">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#530#531#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-607">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="35" selection-end-column="5" />
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="921" column="27" selection-start-line="921" selection-start-column="27" selection-end-line="921" selection-end-column="27" />
+          <folding>
+            <element signature="e#35031#35032#0" expanded="true" />
+            <element signature="e#35078#35079#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/formulatest/FormulaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/formula/SumFormula.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1375#1376#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/GymClothes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/FirstGradeStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/StringSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-line="5" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/HateSameNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/Tower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="22" column="99" selection-start-line="22" selection-start-column="99" selection-end-line="22" selection-end-column="99" />
         </state>
       </provider>
     </entry>
