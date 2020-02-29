@@ -3,14 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="01a00d0f-1287-438a-9013-801a3e7f1702" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/FirstGradeStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/FirstGradeStudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/GymClothes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/GymClothes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/HateSameNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/HateSameNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level1/StringSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Programmers/Level2/CorrectBracket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Programmers/Level2/CorrectBracket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/AppTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level1Test/Level1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level1Test/Level1Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level2Test/Level2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level2Test/Level2Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/programmersTest/Level2Test/Level2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programmersTest/Level2Test/Level2Test.java" afterDir="false" />
     </list>
@@ -30,11 +22,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/Tower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="22" column="99" selection-start-line="22" selection-start-column="99" selection-end-line="22" selection-end-column="99" />
+            <state relative-caret-position="38">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/ExpressOfNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -42,11 +43,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="332">
+              <caret line="43" column="63" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1375#1376#0" expanded="true" />
+                <element signature="e#1369#1370#0" expanded="true" />
+                <element signature="e#1442#1443#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/ProgrammersTest/Level2Test/Level2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/Programmers/Level2/Lcm.java" />
         <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/Dividede.java" />
         <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/divide.java" />
@@ -118,14 +119,14 @@
         <option value="$PROJECT_DIR$/src/main/java/selfstudy/Example.java" />
         <option value="$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/AppTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/level2/Tower.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/level2/ExpressOfNumber.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
@@ -251,7 +252,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582708584164" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582964007980" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../testeeeee" />
@@ -284,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Level2Test.getTower">
+  <component name="RunManager" selected="JUnit.Level2Test.getExpressOfNumberTest">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sort.BubbleSort" />
       <module name="com.tommy.tdd-sample.tdd-sample.main" />
@@ -309,6 +310,22 @@
       <option name="PACKAGE_NAME" value="formulatest" />
       <option name="MAIN_CLASS_NAME" value="formulatest.FormulaTest" />
       <option name="METHOD_NAME" value="getSumFormula" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Level2Test.getExpressOfNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmerstest.level2test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmerstest.level2test" />
+      <option name="MAIN_CLASS_NAME" value="programmerstest.level2test.Level2Test" />
+      <option name="METHOD_NAME" value="getExpressOfNumberTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -346,28 +363,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selfstudyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selfstudytest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selfstudytest" />
-      <option name="MAIN_CLASS_NAME" value="selfstudytest.selfstudyTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Level2Test.getExpressOfNumberTest" />
         <item itemvalue="JUnit.Level2Test.getTower" />
         <item itemvalue="JUnit.Level2Test.getFibonacciTest" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="JUnit.FormulaTest.getSumFormula" />
-        <item itemvalue="JUnit.selfstudyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -388,20 +390,12 @@
       <workItem from="1581578727208" duration="1198000" />
       <workItem from="1581581289033" duration="5010000" />
       <workItem from="1581666783862" duration="38037000" />
-      <workItem from="1582011306243" duration="35771000" />
+      <workItem from="1582011306243" duration="36368000" />
+      <workItem from="1582962942015" duration="856000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Level2Test_getTower - 2020.02.26 at 17h 35m 10s.xml">
-      <configuration name="Level2Test.getTower" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level2Test_getTower - 2020.02.26 at 17h 35m 50s.xml">
-      <configuration name="Level2Test.getTower" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level2Test_getTower - 2020.02.26 at 17h 36m 13s.xml">
-      <configuration name="Level2Test.getTower" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Level2Test_getTower - 2020.02.26 at 17h 56m 12s.xml">
       <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
@@ -423,12 +417,21 @@
     <history-entry file="Level2Test_getTower - 2020.02.26 at 18h 12m 38s.xml">
       <configuration name="Level2Test.getTower" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Level2Test_getExpressOfNumberTest - 2020.02.29 at 17h 06m 06s.xml">
+      <configuration name="Level2Test.getExpressOfNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level2Test_getExpressOfNumberTest - 2020.02.29 at 17h 09m 23s.xml">
+      <configuration name="Level2Test.getExpressOfNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level2Test_getExpressOfNumberTest - 2020.02.29 at 17h 13m 03s.xml">
+      <configuration name="Level2Test.getExpressOfNumberTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133915000" />
+    <option name="totallyTimeSpent" value="135368000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -437,7 +440,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="6" weight="0.40499306" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.21220528" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.45702004" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32998565" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
@@ -449,7 +452,7 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32998565" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.29219857" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.2912482" />
       <window_info anchor="bottom" id="Debug" order="12" weight="0.38439715" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Maven" order="0" />
@@ -635,6 +638,42 @@
           <properties />
           <option name="timeStamp" value="111" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level2/ExpressOfNumber.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level2/ExpressOfNumber.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level2/ExpressOfNumber.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level2/ExpressOfNumber.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level2/ExpressOfNumber.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/programmers/level2/ExpressOfNumber.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/programmers/level1/StringSort.java</url>
           <line>20</line>
@@ -806,16 +845,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/queue/QueueMatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="43" column="70" selection-start-line="43" selection-start-column="70" selection-end-line="43" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/queue/QueueMatter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/stack/StackMatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -889,13 +919,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/Lcm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/CorrectBracket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -923,30 +946,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jquery.countdown.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="239" column="17" selection-end-line="245" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/jquery.countdown.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="123" column="42" lean-forward="true" selection-end-line="126" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/asdf.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jquery.countdown.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jquery.countdown.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/asdf.html" />
     <entry file="file://$PROJECT_DIR$/src/main/java/sort/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -1044,17 +1046,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1375#1376#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/GymClothes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -1097,8 +1088,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/Tower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="22" column="99" selection-start-line="22" selection-start-column="99" selection-end-line="22" selection-end-column="99" />
+        <state relative-caret-position="38">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="43" column="63" selection-start-line="43" selection-start-column="63" selection-end-line="43" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1442#1443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/ExpressOfNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

@@ -2,7 +2,7 @@ package programmerstest.level2test;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import programmers.level2.Fibonacci;
-import programmers.level2.Lcm;
+import programmers.level2.ExpressOfNumber;
 import programmers.level2.MaxAndMin;
 import programmers.level2.Tower;
 
@@ -13,7 +13,7 @@ public class Level2Test {
 
     private MaxAndMin maxAndMin;
     private Tower tower;
-    private Lcm lcm;
+    private ExpressOfNumber expressOfNumber;
     private Fibonacci fibonacci;
 
 
@@ -21,7 +21,7 @@ public class Level2Test {
     void setUp() {
         maxAndMin = new MaxAndMin();
         tower = new Tower();
-        lcm = new Lcm();
+        expressOfNumber = new ExpressOfNumber();
         fibonacci = new Fibonacci();
     }
 
@@ -35,13 +35,13 @@ public class Level2Test {
     @Test
     public void getTower() {
         assertThat(tower.getTower(new int[]{6, 9, 5, 7, 4}), is(new int[] {0, 0, 2, 2, 4}));
-//        assertThat(tower.getTower(new int[]{3, 9, 9, 3, 5, 7, 2}), is(new int[] {0, 0, 0, 3, 3, 3, 6}));
-//        assertThat(tower.getTower(new int[]{1, 5, 3, 6, 7, 6, 5}), is(new int[] {0, 0, 2, 0, 0, 5, 6}));
+        assertThat(tower.getTower(new int[]{3, 9, 9, 3, 5, 7, 2}), is(new int[] {0, 0, 0, 3, 3, 3, 6}));
+        assertThat(tower.getTower(new int[]{1, 5, 3, 6, 7, 6, 5}), is(new int[] {0, 0, 2, 0, 0, 5, 6}));
     }
 
     @Test
-    public void getMultiLcm() {
-        assertThat(lcm.getMultiLcm(new int[] {2, 6, 8, 14}), is(168));
+    public void getExpressOfNumberTest() {
+        assertThat(expressOfNumber.getExpressOfNumber(15), is(4));
     }
 
     @Test
