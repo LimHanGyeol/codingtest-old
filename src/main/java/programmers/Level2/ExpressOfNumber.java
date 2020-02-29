@@ -8,8 +8,8 @@ package programmers.level2;
 public class ExpressOfNumber {
 
     public int getExpressOfNumber(int n) {
-        int count = 0, sum = 0, intValue = 0;
-        System.out.println(n/2);
+        int count = 0, sum , intValue = 0;
+
         for (int i = 1; i < n/2 + 1; i++) {
             sum = 0;
             intValue = i;

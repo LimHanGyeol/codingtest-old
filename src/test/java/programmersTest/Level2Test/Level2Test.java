@@ -1,10 +1,7 @@
 package programmerstest.level2test;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import programmers.level2.Fibonacci;
-import programmers.level2.ExpressOfNumber;
-import programmers.level2.MaxAndMin;
-import programmers.level2.Tower;
+import programmers.level2.*;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
@@ -15,6 +12,7 @@ public class Level2Test {
     private Tower tower;
     private ExpressOfNumber expressOfNumber;
     private Fibonacci fibonacci;
+    private PhoneBook phoneBook;
 
 
     @BeforeEach
@@ -23,6 +21,7 @@ public class Level2Test {
         tower = new Tower();
         expressOfNumber = new ExpressOfNumber();
         fibonacci = new Fibonacci();
+        phoneBook = new PhoneBook();
     }
 
     @Test
@@ -49,6 +48,16 @@ public class Level2Test {
         assertThat(fibonacci.getFibonacci(5), is(5));
         assertThat(fibonacci.getFibonacci(3), is(2));
         assertThat(fibonacci.getFibonacci(10), is(55));
+    }
+
+    @Test
+    public void getPhoneBookCheckTest() {
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"119", "97674223","1195524421"}), is(false));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"123", "456","789"}), is(true));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"12", "123","1235","567","88"}), is(false));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"010", "7299","7258","11","88"}), is(false));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"010", "4351","235","11","43"}), is(false));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"82", "123456","12345","72"}), is(false));
     }
 
 }
