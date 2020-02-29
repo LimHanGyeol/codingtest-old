@@ -13,6 +13,7 @@ public class Level2Test {
     private ExpressOfNumber expressOfNumber;
     private Fibonacci fibonacci;
     private PhoneBook phoneBook;
+    private Printer printer;
 
 
     @BeforeEach
@@ -22,6 +23,7 @@ public class Level2Test {
         expressOfNumber = new ExpressOfNumber();
         fibonacci = new Fibonacci();
         phoneBook = new PhoneBook();
+        printer = new Printer();
     }
 
     @Test
@@ -60,4 +62,9 @@ public class Level2Test {
         assertThat(phoneBook.getPhoneBookCheck(new String[]{"82", "123456","12345","72"}), is(false));
     }
 
+    @Test
+    public void getPrinterTest() {
+        assertThat(printer.getPrinter(new int[]{2, 1, 3, 2}, 2), is(1));
+        assertThat(printer.getPrinter(new int[]{1, 1, 9, 1, 1, 1}, 0), is(5));
+    }
 }
