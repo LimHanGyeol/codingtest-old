@@ -14,6 +14,7 @@ public class Level2Test {
     private Fibonacci fibonacci;
     private PhoneBook phoneBook;
     private Printer printer;
+    private IronBar ironBar;
 
 
     @BeforeEach
@@ -24,6 +25,7 @@ public class Level2Test {
         fibonacci = new Fibonacci();
         phoneBook = new PhoneBook();
         printer = new Printer();
+        ironBar = new IronBar();
     }
 
     @Test
@@ -64,7 +66,12 @@ public class Level2Test {
 
     @Test
     public void getPrinterTest() {
-        assertThat(printer.getPrinter(new int[]{2, 1, 3, 2}, 2), is(1));
+//        assertThat(printer.getPrinter(new int[]{2, 1, 3, 2}, 2), is(1));
         assertThat(printer.getPrinter(new int[]{1, 1, 9, 1, 1, 1}, 0), is(5));
+    }
+
+    @Test
+    public void getIronBarTest() {
+        assertThat(ironBar.getIronBar("()(((()())(())()))(())"), is(17));
     }
 }
