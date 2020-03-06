@@ -7,6 +7,7 @@ import java.util.Stack;
  * 문제 : 쇠막대기
  * 여러 개의 쇠막대기를 레이저로 절단하려고 한다.
  * 쇠막대기의 구분은 문자열 괄호로 주어지고, 자른 쇠막대기의 개수를 리턴하는 함수를 작성하라.
+
  */
 public class IronBar {
     public int getIronBar(String arrangement) {
@@ -28,4 +29,5 @@ public class IronBar {
         }
         return answer;
     }
+
 }
