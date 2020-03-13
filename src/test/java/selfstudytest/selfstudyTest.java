@@ -5,6 +5,7 @@ import org.junit.jupiter.api.Test;
 import selfstudy.Question;
 import selfstudy.Question2;
 import selfstudy.Question3;
+import selfstudy.Question4;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,11 +17,13 @@ public class selfstudyTest {
 
     Question question;
     Question3 question3;
+    Question4 question4;
 
     @BeforeEach
     void setUp() {
         question = new Question();
         question3 = new Question3();
+        question4 = new Question4();
     }
 
     @Test
@@ -52,5 +55,10 @@ public class selfstudyTest {
         assertThat(question3.cookieWriteCheck("cookie", "cooookieee"), is(true));
         assertThat(question3.cookieWriteCheck("cookie", "cokie"), is(false));
         assertThat(question3.cookieWriteCheck("cookie", "cookoie"), is(false));
+    }
+
+    @Test
+    public void test() {
+
     }
 }
