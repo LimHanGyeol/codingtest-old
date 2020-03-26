@@ -18,6 +18,7 @@ public class Level1Test {
     private GymClothes gymClothes;
     private CorrectBracket correctBracket;
     private SumBetweenTwoInteger sumBetweenTwoInteger;
+    private Knum knum;
 
     @BeforeEach
     void setUp() {
@@ -27,6 +28,7 @@ public class Level1Test {
         gymClothes = new GymClothes();
         correctBracket = new CorrectBracket();
         sumBetweenTwoInteger = new SumBetweenTwoInteger();
+        knum = new Knum();
     }
 
     @Test
@@ -67,5 +69,10 @@ public class Level1Test {
         assertThat(sumBetweenTwoInteger.getSumBetweenTwoInteger(3, 5), is(12));
         assertThat(sumBetweenTwoInteger.getSumBetweenTwoInteger(3, 3), is(3));
         assertThat(sumBetweenTwoInteger.getSumBetweenTwoInteger(5, 3), is(12));
+    }
+
+    @Test
+    public void getKnumTest() {
+        assertThat(knum.getKnumber(new int[]{1, 5, 2, 6, 3, 7, 4}, new int[][] {{2, 5, 3}, {4, 4, 1}, {1, 7, 3}}),is(new int[]{5, 6, 3}));
     }
 }

@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01a00d0f-1287-438a-9013-801a3e7f1702" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level1Test/Level1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/ProgrammersTest/Level1Test/Level1Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/selfstudytest/selfstudyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/selfstudytest/selfstudyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/programmersTest/Level1Test/Level1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/programmersTest/Level1Test/Level1Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="01a00d0f-1287-438a-9013-801a3e7f1702" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -23,11 +18,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/SumBetweenTwoInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="209">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/Knum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level1test/Level1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="67" column="75" selection-start-line="67" selection-start-column="75" selection-end-line="67" selection-end-column="75" />
+            <state relative-caret-position="437">
+              <caret line="75" column="127" lean-forward="true" selection-start-line="75" selection-start-column="127" selection-end-line="75" selection-end-column="127" />
             </state>
           </provider>
         </entry>
@@ -58,7 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/BaekJoon/array/AboveAverage.java" />
         <option value="$PROJECT_DIR$/src/main/java/info.java" />
         <option value="$PROJECT_DIR$/src/test/java/BaekJoonTest/arrayTest/ArrayTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/formulaTest/SumFormula.java" />
@@ -107,8 +114,9 @@
         <option value="$PROJECT_DIR$/src/main/java/selfstudy/Question3.java" />
         <option value="$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/selfstudy/Question4.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programmerstest/level1test/Level1Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/level1/SumBetweenTwoInteger.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programmerstest/level1test/Level1Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/level1/Knum.java" />
       </list>
     </option>
   </component>
@@ -218,7 +226,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585207531678" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585211226422" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -251,7 +259,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Level1Test.getSumBetweenTwoIntegerTest">
+  <component name="RunManager" selected="JUnit.Level1Test.getKnumTest">
+    <configuration name="Level1Test.getKnumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmerstest.level1test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="programmerstest.level1test" />
+      <option name="MAIN_CLASS_NAME" value="programmerstest.level1test.Level1Test" />
+      <option name="METHOD_NAME" value="getKnumTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Level1Test.getSumBetweenTwoIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
       <extension name="coverage">
@@ -263,22 +287,6 @@
       <option name="PACKAGE_NAME" value="programmerstest.level1test" />
       <option name="MAIN_CLASS_NAME" value="programmerstest.level1test.Level1Test" />
       <option name="METHOD_NAME" value="getSumBetweenTwoIntegerTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Level2Test.getIronBarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmerstest.level2test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programmerstest.level2test" />
-      <option name="MAIN_CLASS_NAME" value="programmerstest.level2test.Level2Test" />
-      <option name="METHOD_NAME" value="getIronBarTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -334,11 +342,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Level1Test.getKnumTest" />
         <item itemvalue="JUnit.Level1Test.getSumBetweenTwoIntegerTest" />
         <item itemvalue="JUnit.selfstudyTest.cookieWriteCheckTest" />
         <item itemvalue="JUnit.selfstudyTest.getLostToNumberTest" />
         <item itemvalue="JUnit.selfstudyTest.getQuestion3Test" />
-        <item itemvalue="JUnit.Level2Test.getIronBarTest" />
       </list>
     </recent_temporary>
   </component>
@@ -371,29 +379,11 @@
       <workItem from="1583912016158" duration="606000" />
       <workItem from="1583913232486" duration="53000" />
       <workItem from="1584089133828" duration="746000" />
-      <workItem from="1585205886579" duration="1628000" />
+      <workItem from="1585205886579" duration="5303000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="selfstudyTest_cookieWriteCheckTest - 2020.03.06 at 00h 33m 39s.xml">
-      <configuration name="selfstudyTest.cookieWriteCheckTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="selfstudyTest_cookieWriteCheckTest - 2020.03.06 at 13h 44m 40s.xml">
-      <configuration name="selfstudyTest.cookieWriteCheckTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level1Test_getSumBetweenTwoIntegerTest - 2020.03.26 at 16h 07m 43s.xml">
-      <configuration name="Level1Test.getSumBetweenTwoIntegerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level1Test_getSumBetweenTwoIntegerTest - 2020.03.26 at 16h 08m 18s.xml">
-      <configuration name="Level1Test.getSumBetweenTwoIntegerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level1Test_getSumBetweenTwoIntegerTest - 2020.03.26 at 16h 09m 01s.xml">
-      <configuration name="Level1Test.getSumBetweenTwoIntegerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level1Test_getSumBetweenTwoIntegerTest - 2020.03.26 at 16h 10m 51s.xml">
-      <configuration name="Level1Test.getSumBetweenTwoIntegerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Level1Test_getSumBetweenTwoIntegerTest - 2020.03.26 at 16h 11m 20s.xml">
       <configuration name="Level1Test.getSumBetweenTwoIntegerTest" configurationId="JUnit" />
     </history-entry>
@@ -406,9 +396,27 @@
     <history-entry file="Level1Test_getSumBetweenTwoIntegerTest - 2020.03.26 at 16h 24m 18s.xml">
       <configuration name="Level1Test.getSumBetweenTwoIntegerTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Level1Test_getSumBetweenTwoIntegerTest - 2020.03.26 at 16h 49m 13s.xml">
+      <configuration name="Level1Test.getSumBetweenTwoIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level1Test_getSumBetweenTwoIntegerTest - 2020.03.26 at 16h 49m 29s.xml">
+      <configuration name="Level1Test.getSumBetweenTwoIntegerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level1Test_getKnumTest - 2020.03.26 at 16h 49m 36s.xml">
+      <configuration name="Level1Test.getKnumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level1Test_getKnumTest - 2020.03.26 at 16h 55m 28s.xml">
+      <configuration name="Level1Test.getKnumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level1Test_getKnumTest - 2020.03.26 at 17h 17m 10s.xml">
+      <configuration name="Level1Test.getKnumTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Level1Test_getKnumTest - 2020.03.26 at 17h 21m 05s.xml">
+      <configuration name="Level1Test.getKnumTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169945000" />
+    <option name="totallyTimeSpent" value="173620000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
@@ -433,7 +441,7 @@
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32998565" />
       <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.38152012" />
-      <window_info anchor="bottom" id="Debug" order="12" weight="0.39469808" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.6706408" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Maven" order="0" />
       <window_info anchor="right" id="Palette" order="1" />
@@ -744,13 +752,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/array/Average.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/baekJoontest/stacktest/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -1140,17 +1141,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level1test/Level1Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/SumBetweenTwoInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="67" column="75" selection-start-line="67" selection-start-column="75" selection-end-line="67" selection-end-column="75" />
+        <state relative-caret-position="209">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/SumBetweenTwoInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level1test/Level1Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="437">
+          <caret line="75" column="127" lean-forward="true" selection-start-line="75" selection-start-column="127" selection-end-line="75" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/Knum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
