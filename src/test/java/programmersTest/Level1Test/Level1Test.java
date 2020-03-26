@@ -1,9 +1,6 @@
 package programmerstest.level1test;
 
-import programmers.level1.FirstGradeStudent;
-import programmers.level1.GymClothes;
-import programmers.level1.HateSameNumber;
-import programmers.level1.StringSort;
+import programmers.level1.*;
 import programmers.level2.CorrectBracket;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -20,6 +17,7 @@ public class Level1Test {
     private StringSort stringSort;
     private GymClothes gymClothes;
     private CorrectBracket correctBracket;
+    private SumBetweenTwoInteger sumBetweenTwoInteger;
 
     @BeforeEach
     void setUp() {
@@ -28,6 +26,7 @@ public class Level1Test {
         stringSort = new StringSort();
         gymClothes = new GymClothes();
         correctBracket = new CorrectBracket();
+        sumBetweenTwoInteger = new SumBetweenTwoInteger();
     }
 
     @Test
@@ -61,5 +60,12 @@ public class Level1Test {
         assertThat(correctBracket.getCorrectBracket("(())()"), is(true));
         assertThat(correctBracket.getCorrectBracket(")()("), is(false));
         assertThat(correctBracket.getCorrectBracket("(()("), is(false));
+    }
+
+    @Test
+    public void getSumBetweenTwoIntegerTest() {
+        assertThat(sumBetweenTwoInteger.getSumBetweenTwoInteger(3, 5), is(12));
+        assertThat(sumBetweenTwoInteger.getSumBetweenTwoInteger(3, 3), is(3));
+        assertThat(sumBetweenTwoInteger.getSumBetweenTwoInteger(5, 3), is(12));
     }
 }
