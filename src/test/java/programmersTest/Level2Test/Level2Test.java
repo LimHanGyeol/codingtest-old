@@ -1,4 +1,5 @@
 package programmerstest.level2test;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import programmers.level2.*;
@@ -16,6 +17,7 @@ public class Level2Test {
     private Printer printer;
     private IronBar ironBar;
     private LargestNumber largestNumber;
+    private Camoflage camoflage;
 
 
     @BeforeEach
@@ -28,6 +30,7 @@ public class Level2Test {
         printer = new Printer();
         ironBar = new IronBar();
         largestNumber = new LargestNumber();
+        camoflage = new Camoflage();
     }
 
     @Test
@@ -39,9 +42,9 @@ public class Level2Test {
 
     @Test
     public void getTower() {
-        assertThat(tower.getTower(new int[]{6, 9, 5, 7, 4}), is(new int[] {0, 0, 2, 2, 4}));
-        assertThat(tower.getTower(new int[]{3, 9, 9, 3, 5, 7, 2}), is(new int[] {0, 0, 0, 3, 3, 3, 6}));
-        assertThat(tower.getTower(new int[]{1, 5, 3, 6, 7, 6, 5}), is(new int[] {0, 0, 2, 0, 0, 5, 6}));
+        assertThat(tower.getTower(new int[]{6, 9, 5, 7, 4}), is(new int[]{0, 0, 2, 2, 4}));
+        assertThat(tower.getTower(new int[]{3, 9, 9, 3, 5, 7, 2}), is(new int[]{0, 0, 0, 3, 3, 3, 6}));
+        assertThat(tower.getTower(new int[]{1, 5, 3, 6, 7, 6, 5}), is(new int[]{0, 0, 2, 0, 0, 5, 6}));
     }
 
     @Test
@@ -58,12 +61,12 @@ public class Level2Test {
 
     @Test
     public void getPhoneBookCheckTest() {
-        assertThat(phoneBook.getPhoneBookCheck(new String[]{"119", "97674223","1195524421"}), is(false));
-        assertThat(phoneBook.getPhoneBookCheck(new String[]{"123", "456","789"}), is(true));
-        assertThat(phoneBook.getPhoneBookCheck(new String[]{"12", "123","1235","567","88"}), is(false));
-        assertThat(phoneBook.getPhoneBookCheck(new String[]{"010", "7299","7258","11","88"}), is(false));
-        assertThat(phoneBook.getPhoneBookCheck(new String[]{"010", "4351","235","11","43"}), is(false));
-        assertThat(phoneBook.getPhoneBookCheck(new String[]{"82", "123456","12345","72"}), is(false));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"119", "97674223", "1195524421"}), is(false));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"123", "456", "789"}), is(true));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"12", "123", "1235", "567", "88"}), is(false));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"010", "7299", "7258", "11", "88"}), is(false));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"010", "4351", "235", "11", "43"}), is(false));
+        assertThat(phoneBook.getPhoneBookCheck(new String[]{"82", "123456", "12345", "72"}), is(false));
     }
 
     @Test
@@ -81,5 +84,15 @@ public class Level2Test {
     public void getLargestTest() {
         assertThat(largestNumber.getLargestNumber(new int[]{6, 10, 2}), is("6210"));
         assertThat(largestNumber.getLargestNumber(new int[]{3, 30, 34, 5, 9}), is("9534330"));
+    }
+
+    @Test
+    public void getCamoflageTest() {
+        assertThat(camoflage.getSolution(
+                new String[][]
+                        {{"yellow_hat", "haedgear"}
+                        , {"blue_sunglasses", "eyewear"}
+                        , {"green_turban", "haedgear"}})
+                , is(5));
     }
 }
