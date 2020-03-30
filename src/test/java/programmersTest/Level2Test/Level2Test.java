@@ -15,6 +15,7 @@ public class Level2Test {
     private PhoneBook phoneBook;
     private Printer printer;
     private IronBar ironBar;
+    private LargestNumber largestNumber;
 
 
     @BeforeEach
@@ -26,6 +27,7 @@ public class Level2Test {
         phoneBook = new PhoneBook();
         printer = new Printer();
         ironBar = new IronBar();
+        largestNumber = new LargestNumber();
     }
 
     @Test
@@ -73,5 +75,11 @@ public class Level2Test {
     @Test
     public void getIronBarTest() {
         assertThat(ironBar.getIronBar("()(((()())(())()))(())"), is(17));
+    }
+
+    @Test
+    public void getLargestTest() {
+        assertThat(largestNumber.getLargestNumber(new int[]{6, 10, 2}), is("6210"));
+        assertThat(largestNumber.getLargestNumber(new int[]{3, 30, 34, 5, 9}), is("9534330"));
     }
 }
