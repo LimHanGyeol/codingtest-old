@@ -18,6 +18,7 @@ public class Level2Test {
     private IronBar ironBar;
     private LargestNumber largestNumber;
     private Camoflage camoflage;
+    private JadenCase jadenCase;
 
 
     @BeforeEach
@@ -31,6 +32,7 @@ public class Level2Test {
         ironBar = new IronBar();
         largestNumber = new LargestNumber();
         camoflage = new Camoflage();
+        jadenCase = new JadenCase();
     }
 
     @Test
@@ -91,8 +93,24 @@ public class Level2Test {
         assertThat(camoflage.getSolution(
                 new String[][]
                         {{"yellow_hat", "haedgear"}
-                        , {"blue_sunglasses", "eyewear"}
-                        , {"green_turban", "haedgear"}})
+                                , {"blue_sunglasses", "eyewear"}
+                                , {"green_turban", "haedgear"}})
                 , is(5));
+    }
+
+    @Test
+    public void getJadenCaseTest() {
+        assertThat(jadenCase.getJadenCase1("3people unFollowed me"), is("3people Unfollowed Me"));
+        assertThat(jadenCase.getJadenCase1("for the last week"), is("For The Last Week"));
+        assertThat(jadenCase.getJadenCase1("lim Han GyEol"), is("Lim Han Gyeol"));
+        assertThat(jadenCase.getJadenCase1("95Lim 21Han GyEol"), is("95lim 21han Gyeol"));
+    }
+
+    @Test
+    public void getJadenCase2Test() {
+        assertThat(jadenCase.getJadenCase2("3people unFollowed me"), is("3people Unfollowed Me"));
+        assertThat(jadenCase.getJadenCase2("for the last week"), is("For The Last Week"));
+        assertThat(jadenCase.getJadenCase2("lim Han GyEol"), is("Lim Han Gyeol"));
+        assertThat(jadenCase.getJadenCase2("95Lim 21Han GyEol"), is("95lim 21han Gyeol"));
     }
 }
