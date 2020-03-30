@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01a00d0f-1287-438a-9013-801a3e7f1702" name="Default Changelist" comment="" />
+    <list default="true" id="01a00d0f-1287-438a-9013-801a3e7f1702" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -19,55 +21,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/SumBetweenTwoInteger.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Algorithm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="571">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level1/Knum.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/LargestNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="-222">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="-260">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-260">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-247">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/Camoflage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Algorithm.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="665">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="38">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -75,8 +116,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+            <state relative-caret-position="220">
+              <caret line="97" column="1" lean-forward="true" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,9 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/formulaTest/SumFormula.java" />
-        <option value="$PROJECT_DIR$/src/main/java/baekJoon/array/AboveAverage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/baekJoon/array/OxQuiz.java" />
         <option value="$PROJECT_DIR$/src/test/java/baekJoonTest/arrayTest/ArrayTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/formulaTest/FormulaTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/selfstudy/Question.java" />
@@ -144,19 +182,23 @@
         <option value="$PROJECT_DIR$/src/main/java/programmers/level2/Printer.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/level2/IronBar.java" />
         <option value="$PROJECT_DIR$/src/main/java/selfstudy/Question3.java" />
-        <option value="$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/selfstudy/Question4.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/level1/SumBetweenTwoInteger.java" />
         <option value="$PROJECT_DIR$/src/test/java/programmerstest/level1test/Level1Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/level1/Knum.java" />
-        <option value="$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/programmers/level2/LargestNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/selfstudy/Algorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selfstudy/Question5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/programmers/level2/Camoflage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/selfstudy/Question6.java" />
+        <option value="$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="951" />
+    <option name="x" value="785" />
+    <option name="y" value="27" />
     <option name="width" value="978" />
     <option name="height" value="1039" />
   </component>
@@ -165,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -191,6 +232,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="programmers" type="462c0819:PsiDirectoryNode" />
+              <item name="level2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -239,10 +297,19 @@
               <item name="programmerstest" type="462c0819:PsiDirectoryNode" />
               <item name="level2test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tdd-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tdd-sample" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selfstudytest" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,7 +320,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585570594425" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585571495847" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -286,56 +353,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Level2Test.getLargestTest">
-    <configuration name="Level1Test.getKnumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmerstest.level1test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programmerstest.level1test" />
-      <option name="MAIN_CLASS_NAME" value="programmerstest.level1test.Level1Test" />
-      <option name="METHOD_NAME" value="getKnumTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Level1Test.getSumBetweenTwoIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmerstest.level1test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programmerstest.level1test" />
-      <option name="MAIN_CLASS_NAME" value="programmerstest.level1test.Level1Test" />
-      <option name="METHOD_NAME" value="getSumBetweenTwoIntegerTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Level2Test.getLargestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="programmerstest.level2test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="programmerstest.level2test" />
-      <option name="MAIN_CLASS_NAME" value="programmerstest.level2test.Level2Test" />
-      <option name="METHOD_NAME" value="getLargestTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="selfstudyTest.cookieWriteCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.selfstudyTest.getQuestion7Test">
+    <configuration name="selfstudyTest.getEstSoftTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
       <extension name="coverage">
         <pattern>
@@ -345,13 +364,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="selfstudytest" />
       <option name="MAIN_CLASS_NAME" value="selfstudytest.selfstudyTest" />
-      <option name="METHOD_NAME" value="cookieWriteCheckTest" />
+      <option name="METHOD_NAME" value="getEstSoftTest2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="selfstudyTest.getLostToNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="selfstudyTest.getQuadraticDistinctTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.tommy.tdd-sample.tdd-sample.test" />
       <extension name="coverage">
         <pattern>
@@ -361,7 +380,55 @@
       </extension>
       <option name="PACKAGE_NAME" value="selfstudytest" />
       <option name="MAIN_CLASS_NAME" value="selfstudytest.selfstudyTest" />
-      <option name="METHOD_NAME" value="getLostToNumberTest" />
+      <option name="METHOD_NAME" value="getQuadraticDistinctTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selfstudyTest.getQuestion7Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selfstudytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selfstudytest" />
+      <option name="MAIN_CLASS_NAME" value="selfstudytest.selfstudyTest" />
+      <option name="METHOD_NAME" value="getQuestion7Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selfstudyTest.getQuetion8Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selfstudytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selfstudytest" />
+      <option name="MAIN_CLASS_NAME" value="selfstudytest.selfstudyTest" />
+      <option name="METHOD_NAME" value="getQuetion8Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selfstudyTest.getSoultionTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selfstudytest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="selfstudytest" />
+      <option name="MAIN_CLASS_NAME" value="selfstudytest.selfstudyTest" />
+      <option name="METHOD_NAME" value="getSoultionTest1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -369,11 +436,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Level2Test.getLargestTest" />
-        <item itemvalue="JUnit.Level1Test.getKnumTest" />
-        <item itemvalue="JUnit.Level1Test.getSumBetweenTwoIntegerTest" />
-        <item itemvalue="JUnit.selfstudyTest.cookieWriteCheckTest" />
-        <item itemvalue="JUnit.selfstudyTest.getLostToNumberTest" />
+        <item itemvalue="JUnit.selfstudyTest.getQuestion7Test" />
+        <item itemvalue="JUnit.selfstudyTest.getQuetion8Test" />
+        <item itemvalue="JUnit.selfstudyTest.getEstSoftTest2" />
+        <item itemvalue="JUnit.selfstudyTest.getSoultionTest1" />
+        <item itemvalue="JUnit.selfstudyTest.getQuadraticDistinctTest" />
       </list>
     </recent_temporary>
   </component>
@@ -408,31 +475,11 @@
       <workItem from="1584089133828" duration="746000" />
       <workItem from="1585205886579" duration="7933000" />
       <workItem from="1585568812795" duration="1369000" />
+      <workItem from="1585570476252" duration="846000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Level1Test_getSumBetweenTwoIntegerTest - 2020.03.26 at 16h 49m 29s.xml">
-      <configuration name="Level1Test.getSumBetweenTwoIntegerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level1Test_getKnumTest - 2020.03.26 at 16h 49m 36s.xml">
-      <configuration name="Level1Test.getKnumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level1Test_getKnumTest - 2020.03.26 at 16h 55m 28s.xml">
-      <configuration name="Level1Test.getKnumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level1Test_getKnumTest - 2020.03.26 at 17h 17m 10s.xml">
-      <configuration name="Level1Test.getKnumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level1Test_getKnumTest - 2020.03.26 at 17h 21m 05s.xml">
-      <configuration name="Level1Test.getKnumTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level2Test_getLargestTest - 2020.03.26 at 17h 53m 56s.xml">
-      <configuration name="Level2Test.getLargestTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Level2Test_getLargestTest - 2020.03.26 at 17h 55m 45s.xml">
-      <configuration name="Level2Test.getLargestTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Level2Test_getLargestTest - 2020.03.26 at 17h 59m 38s.xml">
       <configuration name="Level2Test.getLargestTest" configurationId="JUnit" />
     </history-entry>
@@ -442,12 +489,34 @@
     <history-entry file="Level2Test_getLargestTest - 2020.03.30 at 20h 47m 39s.xml">
       <configuration name="Level2Test.getLargestTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="selfstudyTest_getConstantTimeComplextiyTest - 2020.03.30 at 21h 20m 25s.xml">
+      <configuration name="selfstudyTest.getConstantTimeComplextiyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="selfstudyTest_getConstantTimeComplextiyTest - 2020.03.30 at 21h 20m 39s.xml">
+      <configuration name="selfstudyTest.getConstantTimeComplextiyTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="selfstudyTest_getLinearTimeComplexityTest - 2020.03.30 at 21h 20m 44s.xml">
+      <configuration name="selfstudyTest.getLinearTimeComplexityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="selfstudyTest_getSequentialSearchTest - 2020.03.30 at 21h 20m 47s.xml">
+      <configuration name="selfstudyTest.getSequentialSearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="selfstudyTest_getQuadraticDistinctTest - 2020.03.30 at 21h 20m 52s.xml">
+      <configuration name="selfstudyTest.getQuadraticDistinctTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="selfstudyTest_getSoultionTest1 - 2020.03.30 at 21h 23m 21s.xml">
+      <configuration name="selfstudyTest.getSoultionTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="selfstudyTest_getEstSoftTest2 - 2020.03.30 at 21h 25m 50s.xml">
+      <configuration name="selfstudyTest.getEstSoftTest2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177619000" />
+    <option name="totallyTimeSpent" value="178465000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="782" height="830" extended-state="0" />
+    <frame x="628" y="22" width="782" height="831" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -455,7 +524,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="6" weight="0.40166205" />
+      <window_info content_ui="combo" id="Project" order="6" weight="0.31855956" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.45702004" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32998565" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
@@ -467,7 +536,7 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="10" weight="0.32998565" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.38152012" />
+      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.3809524" />
       <window_info anchor="bottom" id="Debug" order="12" weight="0.6706408" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Maven" order="0" />
@@ -785,48 +854,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/string/GroupWordCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/baekJoontest/stringtest/StringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/string/RepeatString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/recursion/FactorialRec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/queue/QueueMatter.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/baekJoontest/greedytest/GreedyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -880,16 +908,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-317">
           <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-607">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -985,27 +1003,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekJoon/recursion/FibonacciRec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1112,24 +1113,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#stringToIntArray#0;class#Question4#0" />
-            <element signature="method#getMinValue#0;class#Question4#0" />
-            <element signature="method#solution2#0;class#Question4#0" />
-            <element signature="method#croissant1#0;class#Question4#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level1test/Level1Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="75" column="127" lean-forward="true" selection-start-line="75" selection-start-column="127" selection-end-line="75" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="363" selection-start-line="363" selection-end-line="363" />
         </state>
       </provider>
     </entry>
@@ -1151,31 +1145,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="363" selection-start-line="363" selection-end-line="363" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/LargestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
+        <state relative-caret-position="133">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1189,8 +1164,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Algorithm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
+        <state relative-caret-position="571">
           <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-222">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/programmers/level2/Camoflage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/programmerstest/level2test/Level2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="97" column="1" lean-forward="true" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-247">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="17" column="61" lean-forward="true" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#stringToIntArray#0;class#Question4#0" />
+            <element signature="method#getMinValue#0;class#Question4#0" />
+            <element signature="method#solution2#0;class#Question4#0" />
+            <element signature="method#croissant1#0;class#Question4#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/selfstudytest/selfstudyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="83" column="32" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/selfstudy/Question7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
     </entry>

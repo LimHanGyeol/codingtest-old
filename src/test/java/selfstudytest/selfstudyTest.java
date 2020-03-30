@@ -2,10 +2,7 @@ package selfstudytest;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import selfstudy.Question;
-import selfstudy.Question2;
-import selfstudy.Question3;
-import selfstudy.Question4;
+import selfstudy.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,15 +12,23 @@ import static org.junit.Assert.assertThat;
 
 public class selfstudyTest {
 
-    Question question;
-    Question3 question3;
-    Question4 question4;
+    private Question question;
+    private Question3 question3;
+    private Algorithm algorithm;
+    private Question5 question5;
+    private Question6 question6;
+    private Question7 question7;
+    private Question8 question8;
 
     @BeforeEach
     void setUp() {
         question = new Question();
         question3 = new Question3();
-        question4 = new Question4();
+        algorithm = new Algorithm();
+        question5 = new Question5();
+        question6 = new Question6();
+        question7 = new Question7();
+        question8 = new Question8();
     }
 
     @Test
@@ -58,7 +63,55 @@ public class selfstudyTest {
     }
 
     @Test
-    public void test() {
+    public void getConstantTimeComplextiyTest() {
+        assertThat(algorithm.isConstantTimeComplexity(new int[]{1, 2, 3, 4, 5, 6}, 6), is(4));
+    }
 
+    @Test
+    public void getLinearTimeComplexityTest() {
+        assertThat(algorithm.isLinearTimeComplexity(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, 10), is(55));
+    }
+
+    @Test
+    public void getSequentialSearchTest() {
+        assertThat(algorithm.isSequentialSearch(10, new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, 10), is(9));
+    }
+
+    @Test
+    public void getQuadraticDistinctTest() {
+        assertThat(algorithm.isQuadraticDistinct(10, new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10}), is(true));
+    }
+
+    @Test
+    public void getQuestion5Test() {
+        assertThat(question5.solution(new int[]{3, 8, 2, 3, 3, 2}), is(3));
+        assertThat(question5.solution(new int[]{7, 1, 2, 8, 2}), is(2));
+        assertThat(question5.solution(new int[]{3, 1, 4, 1, 5}), is(0));
+        assertThat(question5.solution(new int[]{5, 5, 5, 5, 5}), is(5));
+        assertThat(question5.solution(new int[]{5, 5,5,5,5,3, 3, 3, 1, 4}), is(5));
+    }
+
+    @Test
+    public void getQuestion6Test() {
+        assertThat(question6.soulution(new int[]{51, 71, 17, 42}), is(93));
+        assertThat(question6.soulution(new int[]{42, 33, 60}), is(102));
+        assertThat(question6.soulution(new int[]{51, 32, 43}), is(-1));
+        assertThat(question6.soulution(new int[]{72, 41, 45, 9}), is(117));
+        assertThat(question6.soulution(new int[]{7, 42, 35, 9}), is(-1));
+        assertThat(question6.soulution(new int[]{47, 83, 41, 50}), is(130));
+        assertThat(question6.soulution(new int[]{44, 34, 61, 52, 89}), is(113));
+    }
+
+    @Test
+    public void getQuestion7Test() {
+        assertThat(question7.solution("MSSLS"), is("SSSML"));
+        assertThat(question7.solution("LLMS"), is("SMLL"));
+        assertThat(question7.solution("SMS"), is("SSM"));
+    }
+
+    @Test
+    public void getQuetion8Test() {
+        assertThat(question8.solution(10, 20), is(2));
+        assertThat(question8.solution(6000, 7000), is(3));
     }
 }
