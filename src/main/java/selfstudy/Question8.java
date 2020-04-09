@@ -23,4 +23,14 @@ public class Question8 {
         return number - (int) number == 0;
     }
 
+    public static boolean isPalindrome(String arg) {
+        int length = arg.length() - 1;
+        for (int i = 0; i < arg.length()/2; i++, length--) {
+            if (arg.charAt(i) != arg.charAt(length)) {
+                return false;
+            }
+            break;
+        }
+        return true;
+    }
 }

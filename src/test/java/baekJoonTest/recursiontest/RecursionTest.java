@@ -28,8 +28,8 @@ public class RecursionTest {
 
     @Test
     public void getFibonacciRecTest() {
-        assertThat(FibonacciRec.getFibonacciRec(10), is(55));
-        assertThat(FibonacciRec.getDynamicFibonacci(10), is(55));
+        assertThat(FibonacciRec.getFibonacciRec(8), is(21));
+//        assertThat(FibonacciRec.getDynamicFibonacci(10), is(55));
     }
 
 }
