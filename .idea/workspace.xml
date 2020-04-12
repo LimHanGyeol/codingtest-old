@@ -22,14 +22,12 @@
     <list default="true" id="01a00d0f-1287-438a-9013-801a3e7f1702" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/baekJoon/sort/IntegerSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/baekJoon/sort/IntegerSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekJoon/sort/IntegerSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekJoon/sort/IntegerSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586237950945" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586619953791" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -89,13 +87,39 @@
       <recent name="C:\Users\HANGYEOL\Desktop\tdd-sample\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IntegerSort">
-    <configuration name="Average" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekJoon.array.Average" />
+  <component name="RunManager">
+    <configuration name="BreadthFirstSearch$Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfstudy.BreadthFirstSearch$Test" />
       <module name="tdd-sample.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekJoon.array.*" />
+          <option name="PATTERN" value="selfstudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfstudy.DepthFirstSearch" />
+      <module name="com.tommy.tdd-sample.tdd-sample.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selfstudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfstudy.GraphSearch" />
+      <module name="tdd-sample.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="selfstudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,55 +140,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AppTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursionTest.getFibonacciRecTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
+    <configuration name="Question" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="selfstudy.Question" />
+      <module name="tdd-sample.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="baekJoontest.recursiontest.*" />
+          <option name="PATTERN" value="selfstudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="baekJoontest.recursiontest" />
-      <option name="MAIN_CLASS_NAME" value="baekJoontest.recursiontest.RecursionTest" />
-      <option name="METHOD_NAME" value="getFibonacciRecTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="selfstudyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.tommy.tdd-sample.tdd-sample.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="selfstudytest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="selfstudytest" />
-      <option name="MAIN_CLASS_NAME" value="selfstudytest.selfstudyTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Average" />
+        <item itemvalue="Application.GraphSearch" />
+        <item itemvalue="Application.BreadthFirstSearch$Test" />
         <item itemvalue="Application.IntegerSort" />
-        <item itemvalue="JUnit.RecursionTest.getFibonacciRecTest" />
-        <item itemvalue="JUnit.selfstudyTest.test" />
-        <item itemvalue="JUnit.AppTest.test" />
+        <item itemvalue="Application.Question" />
+        <item itemvalue="Application.DepthFirstSearch (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -208,11 +203,12 @@
       <workItem from="1585841516341" duration="145000" />
       <workItem from="1586098330847" duration="2063000" />
       <workItem from="1586235246283" duration="2611000" />
+      <workItem from="1586619785029" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191513000" />
+    <option name="totallyTimeSpent" value="191754000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -227,29 +223,55 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="217" key="GridCell.Tab.0.bottom" timestamp="1586520751940">
+    <state x="842" y="28" key="#DepthFirstSearch" timestamp="1586620088398">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586520751940" />
-    <state width="1493" height="217" key="GridCell.Tab.0.center" timestamp="1586520751940">
+    <state x="842" y="28" key="#DepthFirstSearch/0.0.1536.824@0.0.1536.824" timestamp="1586620088398" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1586674201589">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586520751940" />
-    <state width="1493" height="217" key="GridCell.Tab.0.left" timestamp="1586520751939">
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586674201589" />
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1586673300996">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586520751939" />
-    <state width="1493" height="217" key="GridCell.Tab.0.right" timestamp="1586520751940">
+    <state x="958" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586673300996" />
+    <state width="723" height="301" key="GridCell.Tab.0.bottom" timestamp="1586675728184">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586520751940" />
-    <state x="555" y="57" key="SettingsEditor" timestamp="1586520859658">
+    <state width="723" height="301" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586675728184" />
+    <state width="723" height="301" key="GridCell.Tab.0.center" timestamp="1586675728184">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586520859658" />
+    <state width="723" height="301" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586675728184" />
+    <state width="723" height="301" key="GridCell.Tab.0.left" timestamp="1586675728183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="301" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586675728183" />
+    <state width="723" height="301" key="GridCell.Tab.0.right" timestamp="1586675728184">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="301" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586675728184" />
+    <state x="555" y="57" key="SettingsEditor" timestamp="1586577328118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586577328118" />
     <state x="976" y="359" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586441528836">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
