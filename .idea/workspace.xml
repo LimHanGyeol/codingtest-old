@@ -27,62 +27,10 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/selfstudy/GraphMatter$Graph$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/selfstudy/GraphMatter$Graph$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/selfstudy/GraphMatter$Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/selfstudy/GraphMatter$Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/selfstudy/GraphMatter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/selfstudy/GraphMatter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/array/AboveAverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/array/Average.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/array/Divide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/array/OxQuiz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/greedy/Coin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/recursion/FactorialRec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/recursion/FibonacciRec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/sort/IntegerSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/stack/BalancedWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/stack/StackMatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/stack/ValidPs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/stack/Zero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/string/GroupWordCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/string/RepeatString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/baekJoon/string/WordStudy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/formula/SumFormula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level1/FirstGradeStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level1/GymClothes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level1/HateSameNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level1/Knum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level1/StringSort$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level1/StringSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level1/SumBetweenTwoInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/Camoflage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/CorrectBracket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/ExpressOfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/IronBar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/JadenCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/LargestNumber$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/LargestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/MaxAndMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/PhoneBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/programmers/level2/Tower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/Algorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/DepthFirstSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/Question.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/Question2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/Question3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/Question4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/Question5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/Question6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/Question7$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/Question7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/selfstudy/Question8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/sort/InsertionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/sort/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/selfstudy/GraphMatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/selfstudy/GraphMatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/baekJoon/graph/Virus.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/baekJoon/graph/Virus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/baekJoon/graph/Virus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekJoon/graph/Virus.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -312,22 +260,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="932" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586760933457" />
-    <state width="726" height="300" key="GridCell.Tab.0.bottom" timestamp="1586953076131">
+    <state width="726" height="300" key="GridCell.Tab.0.bottom" timestamp="1586958117913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="300" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586953076131" />
-    <state width="726" height="300" key="GridCell.Tab.0.center" timestamp="1586953076130">
+    <state width="726" height="300" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586958117913" />
+    <state width="726" height="300" key="GridCell.Tab.0.center" timestamp="1586958117913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="300" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586953076130" />
-    <state width="726" height="300" key="GridCell.Tab.0.left" timestamp="1586953076130">
+    <state width="726" height="300" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586958117913" />
+    <state width="726" height="300" key="GridCell.Tab.0.left" timestamp="1586958117913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="300" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586953076130" />
-    <state width="726" height="300" key="GridCell.Tab.0.right" timestamp="1586953076130">
+    <state width="726" height="300" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586958117913" />
+    <state width="726" height="300" key="GridCell.Tab.0.right" timestamp="1586958117913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="726" height="300" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586953076130" />
+    <state width="726" height="300" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586958117913" />
     <state x="498" y="0" key="SettingsEditor" timestamp="1586934358357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -29,9 +29,10 @@ public class Virus {
         System.out.println("=== node input");
         graph = initGraph(scanner, graph);
 
-        getVirusInfectionComputerDfsR(1);
+//        getVirusInfectionComputerDfsR(1);
 //        getVirusInfectionComputerBfs(1);
-        System.out.println(count);
+//        System.out.println(count);
+        System.out.println(getVirusInfectionComputerBfs(1));
     }
 
     private static int[][] initGraph(Scanner scanner, int[][] graph) {
@@ -55,23 +56,28 @@ public class Virus {
         }
     }
 
-    private static boolean getVirusInfectionComputerBfs(int startNode) {
+    /**
+     * @Retactoring
+     * 1. private static boolean -> private static int
+     * 2. for (int j -> int y
+     * 3. int tempNumber; tempNumber = queue.poll(); -> int tempNumber = queue.poll();
+     */
+    private static int getVirusInfectionComputerBfs(int startNode) {
         Queue<Integer> queue = new LinkedList<>();
         queue.offer(startNode);
         visited[startNode] = true;
 
-        int tempNumber;
         while (!queue.isEmpty()) {
-            tempNumber = queue.poll();
+            int tempNumber = queue.poll();
 
-            for (int j = 1; j <= node; j++) {
-                if (graph[tempNumber][j] == 1 && !visited[j]) {
-                    queue.offer(j);
-                    visited[j] = true;
+            for (int y = 1; y <= node; y++) {
+                if (graph[tempNumber][y] == 1 && !visited[y]) {
+                    queue.offer(y);
+                    visited[y] = true;
                     count++;
                 }
             }
         }
-        return false;
+        return count;
     }
 }
