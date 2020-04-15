@@ -3,17 +3,15 @@ package selfstudy;
 import java.util.LinkedList;
 
 /**
- * @Title
- * Graph에서 두개의 노드가 서로 찾아갈 수 있는 경로가 있는지 확인하는 함수를 구현하라.
- * @Content
- * 시작점을 기준으로 조금씩 영역을 넓혀나가는 BFS로 구현.
- *   0
- *  /
+ * @Title Graph에서 두개의 노드가 서로 찾아갈 수 있는 경로가 있는지 확인하는 함수를 구현하라.
+ * @Content 시작점을 기준으로 조금씩 영역을 넓혀나가는 BFS로 구현.
+ * 0
+ * /
  * 1 -- 3    7
  * |  / | \ /
  * | /  |  5
  * 2 -- 4   \
- *           6 - 8
+ * 6 - 8
  */
 public class GraphMatter {
 
