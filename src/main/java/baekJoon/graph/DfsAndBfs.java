@@ -3,43 +3,38 @@ package baekJoon.graph;
 import java.util.*;
 
 public class DfsAndBfs {
-    static ArrayList<Integer>[] lists;
-    static int node, edge, startNode;
-    static boolean[] checks;
+    static ArrayList<Integer>[] list;
+    static int node;
+    static boolean[] marked;
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String firstLineInput = scanner.nextLine();
-        String[] inputArray = firstLineInput.split(" ");
-        for (int i = 0; i < inputArray.length; i++) {
-            node = Integer.parseInt(inputArray[0]);
-            edge = Integer.parseInt(inputArray[1]);
-            startNode = Integer.parseInt(inputArray[2]);
-        }
+        node = scanner.nextInt();
+        int edge = scanner.nextInt();
+        int startNode = scanner.nextInt();
 
-        lists = new ArrayList[node + 1];
+        list = new ArrayList[node+1];
 
         for (int i = 1; i < node+1; i++) {
-            lists[i] = new ArrayList<>();
+            list[i] = new ArrayList<>();
         }
 
         for (int i = 0; i < edge; i++) {
             int u = scanner.nextInt();
             int v = scanner.nextInt();
 
-            lists[u].add(v);
-            lists[v].add(u);
+            list[u].add(v);
+            list[v].add(u);
         }
 
         for (int i = 1; i < node+1; i++) {
-            Collections.sort(lists[i]);
+            Collections.sort(list[i]);
         }
-
-        checks = new boolean[node+1];
+        marked = new boolean[node+1];
         dfs(startNode);
         System.out.println();
 
-        checks = new boolean[node+1];
+        marked = new boolean[node+1];
         bfs(startNode);
         System.out.println();
 
@@ -47,12 +42,13 @@ public class DfsAndBfs {
     }
 
     private static void dfs(int x) {
-        if (checks[x]) return;
-
-        checks[x] = true;
-        System.out.print(x + " ");
-        for (int y : lists[x]) {
-            if (!checks[y]) {
+        if (marked[x]) {
+            return;
+        }
+        marked[x] = true;
+        System.out.println(x + " ");
+        for (int y : list[x]) {
+            if (!marked[y]) {
                 dfs(y);
             }
         }
@@ -61,17 +57,18 @@ public class DfsAndBfs {
     private static void bfs(int start) {
         Queue<Integer> queue = new LinkedList<>();
         queue.add(start);
-        checks[start] = true;
+        marked[start] = true;
 
         while (!queue.isEmpty()) {
             int x = queue.poll();
-            System.out.print(x + " ");
-            for (int y : lists[x]) {
-                if (!checks[y]) {
-                    checks[y] = true;
+            System.out.println(x + " ");
+            for (int y : list[x]) {
+                if (!marked[y]) {
+                    marked[y] = true;
                     queue.add(y);
                 }
             }
         }
     }
+
 }

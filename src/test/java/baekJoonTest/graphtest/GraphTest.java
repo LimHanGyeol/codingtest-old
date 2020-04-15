@@ -1,6 +1,7 @@
 package baekJoontest.graphtest;
 
 import baekJoon.graph.DfsAndBfs;
+import baekJoon.graph.DfsAndBfs2;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -17,6 +18,6 @@ public class GraphTest {
     }
 
     @Test
-    public void getDfsAndBfsTest() {
+    public void getDfsTest() {
     }
 }
