@@ -57,7 +57,7 @@ public class Virus {
     }
 
     /**
-     * @Retactoring
+     * @Refactoring
      * 1. private static boolean -> private static int
      * 2. for (int j -> int y
      * 3. int tempNumber; tempNumber = queue.poll(); -> int tempNumber = queue.poll();

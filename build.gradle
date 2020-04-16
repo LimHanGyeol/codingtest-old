@@ -1,3 +1,5 @@
+import com.sun.org.apache.xalan.internal.xsltc.cmdline.Compile
+
 plugins {
     id 'java'
 }
@@ -12,5 +14,10 @@ repositories {
 }
 
 dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
+// https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
+    testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.6.2'
+
+    // https://mvnrepository.com/artifact/org.hamcrest/hamcrest-core
+    testCompile group: 'org.hamcrest', name: 'hamcrest-core', version: '2.2'
+
 }
