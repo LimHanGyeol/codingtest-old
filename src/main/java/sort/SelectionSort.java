@@ -8,11 +8,48 @@ public class SelectionSort {
 
     public static void main(String[] args) {
 //        selectionSortMin(input, input.length);
-        selectionSortMax(input, input.length);
-        for (int num : input) {
-            System.out.print(num + " ");
+//        selectionSortMax(input, input.length);
+//        for (int num : input) {
+//            System.out.print(num + " ");
+//        }
+        int[] arr = {3, 6, 1, 8, 2, 4};
+        printArray(input);
+        selectionSort(input);
+        printArray(input);
+
+    }
+
+    private static void selectionSort(int[] arr) {
+        selectionSort(arr, 0);
+    }
+
+    private static void selectionSort(int[] arr, int start) {
+        if (start < arr.length - 1) {
+            int minIndex = start;
+            for (int i = start; i < arr.length; i++) {
+                if (arr[i] < arr[minIndex]) {
+                    minIndex = i;
+                }
+            }
+            swap(arr, start, minIndex);
+            selectionSort(arr, start+1);
         }
     }
+
+    private static void swap(int[] arr, int index1, int index2) {
+        int tempValue = arr[index1];
+        arr[index1] = arr[index2];
+        arr[index2] = tempValue;
+    }
+
+    private static void printArray(int[] arr) {
+        for (int data : arr) {
+            System.out.print(data + ",");
+        }
+        System.out.println();
+    }
+
+
 
     public static int[] selectionSortMin(int[] input, int length) {
         int min;

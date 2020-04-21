@@ -19,6 +19,7 @@ public class Level2Test {
     private LargestNumber largestNumber;
     private Camoflage camoflage;
     private JadenCase jadenCase;
+    private StockPrice stockPrice;
 
 
     @BeforeEach
@@ -33,6 +34,7 @@ public class Level2Test {
         largestNumber = new LargestNumber();
         camoflage = new Camoflage();
         jadenCase = new JadenCase();
+        stockPrice = new StockPrice();
     }
 
     @Test
@@ -112,5 +114,10 @@ public class Level2Test {
         assertThat(jadenCase.getJadenCase2("for the last week"), is("For The Last Week"));
         assertThat(jadenCase.getJadenCase2("lim Han GyEol"), is("Lim Han Gyeol"));
         assertThat(jadenCase.getJadenCase2("95Lim 21Han GyEol"), is("95lim 21han Gyeol"));
+    }
+
+    @Test
+    public void getStockPriceTest() {
+        assertThat(StockPrice.getStockPrice(new int[]{1, 2, 3, 2, 3}), is(new int[]{4, 3, 1, 1, 0}));
     }
 }
